@@ -1,74 +1,74 @@
 [
  {
    "type": "blueprint",
-   "name": "Classic RPK-74",
-   "score": 256,
+   "name": "ACR",
+   "score": "256",
+   "price": "PxC 1082"
+ },
+ {
+   "type": "blueprint",
+   "name": "Converted USC",
+   "score": "256",
    "price": "PxC 915"
  },
  {
    "type": "blueprint",
-   "name": "Military M9",
-   "score": 256,
-   "price": "PxC 749"
+   "name": "Stamina Mask",
+   "score": "256",
+   "price": "PxC 582"
  },
  {
    "type": "blueprint",
-   "name": "Electronics Gloves",
-   "score": 256,
-   "price": "PxC 499"
+   "name": "Stamina Vest",
+   "score": "256",
+   "price": "PxC 665"
  },
  {
    "type": "blueprint",
-   "name": "Electronics Knee Pads",
-   "score": 256,
-   "price": "PxC 499"
+   "name": "Quick Release Magazine<br/>Reload Speed, Random, Random",
+   "score": "34",
+   "price": "PxC 192"
  },
  {
    "type": "blueprint",
    "name": "Heavy Magazine Spring<br/>Rate of Fire, Random, Random",
-   "score": 34,
+   "score": "34",
    "price": "PxC 192"
- },
- {
-   "type": "blueprint",
-   "name": "Small Laser Pointer<br/>Accuracy, Random, Random",
-   "score": 34,
-   "price": "PxC 200"
  },
  {
    "type": "blueprint",
    "name": "Stamina Gear Mod",
-   "score": 34,
+   "score": "34",
    "price": "PxC 192"
  },
  {
    "type": "blueprint",
-   "name": "Electronics Gear Mod",
-   "score": 34,
+   "name": "Performance Gear Mod",
+   "score": "34",
    "price": "PxC 192"
  },
  {
    "type": "blueprint",
-   "name": "M45A1",
-   "score": 229,
+   "name": "Military SCAR-H",
+   "score": "229",
    "price": "PxC 470"
  },
  {
    "type": "blueprint",
    "name": "586 Magnum",
-   "score": 229,
-   "price": "PxC 470"
+   "score": "229",
+   "price": "PxC 313"
  },
  {
    "type": "blueprint",
-   "name": "Black Market SASG-12 S",
-   "score": 204,
-   "price": "PxC 340"
+   "name": "Police 686 Magnum",
+   "score": "204",
+   "price": "PxC 278"
  },
  {
    "type": "blueprint",
-   "name": "Tactical ACR",
-   "score": 204,
-   "price": "PxC 340"
+   "name": "Tactical SA-58",
+   "score": "204",
+   "price": "PxC 402"
  }
 ]
