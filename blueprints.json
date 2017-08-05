@@ -1,74 +1,74 @@
 [
  {
    "type": "blueprint",
-   "name": "ACR",
-   "score": "256",
+   "name": "Classic AK-47",
+   "score": 256,
    "price": "PxC 1082"
  },
  {
    "type": "blueprint",
-   "name": "Converted USC",
-   "score": "256",
-   "price": "PxC 915"
+   "name": "Super 90",
+   "score": 256,
+   "price": "PxC 998"
  },
  {
    "type": "blueprint",
    "name": "Stamina Mask",
-   "score": "256",
+   "score": 256,
    "price": "PxC 582"
  },
  {
    "type": "blueprint",
-   "name": "Stamina Vest",
-   "score": "256",
-   "price": "PxC 665"
+   "name": "Stamina Gloves",
+   "score": 256,
+   "price": "PxC 499"
  },
  {
    "type": "blueprint",
-   "name": "Quick Release Magazine<br/>Reload Speed, Random, Random",
-   "score": "34",
-   "price": "PxC 192"
+   "name": "EXPS3 Holographic Sight - Tan<br/>Optimal Range, Random, Random",
+   "score": 34,
+   "price": "PxC 200"
  },
  {
    "type": "blueprint",
-   "name": "Heavy Magazine Spring<br/>Rate of Fire, Random, Random",
-   "score": "34",
-   "price": "PxC 192"
+   "name": "Flash Hider<br/>Accuracy, Random, Random",
+   "score": 34,
+   "price": "PxC 200"
  },
  {
    "type": "blueprint",
-   "name": "Stamina Gear Mod",
-   "score": "34",
+   "name": "Electronics Gear Mod",
+   "score": 34,
    "price": "PxC 192"
  },
  {
    "type": "blueprint",
    "name": "Performance Gear Mod",
-   "score": "34",
+   "score": 34,
    "price": "PxC 192"
  },
  {
    "type": "blueprint",
-   "name": "Military SCAR-H",
-   "score": "229",
+   "name": "Hunting M44",
+   "score": 229,
+   "price": "PxC 627"
+ },
+ {
+   "type": "blueprint",
+   "name": "93R",
+   "score": 229,
    "price": "PxC 470"
  },
  {
    "type": "blueprint",
-   "name": "586 Magnum",
-   "score": "229",
-   "price": "PxC 313"
+   "name": "LVOA-C",
+   "score": 204,
+   "price": "PxC 340"
  },
  {
    "type": "blueprint",
-   "name": "Police 686 Magnum",
-   "score": "204",
-   "price": "PxC 278"
- },
- {
-   "type": "blueprint",
-   "name": "Tactical SA-58",
-   "score": "204",
-   "price": "PxC 402"
+   "name": "Px4 Storm Type T",
+   "score": 204,
+   "price": "PxC 340"
  }
 ]
