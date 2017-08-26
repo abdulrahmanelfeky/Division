@@ -1,57 +1,57 @@
 [
  {
    "type": "blueprint",
-   "name": "Military M9",
+   "name": "Classic AK-47",
    "score": "256",
-   "price": "PxC 749"
+   "price": "PxC 1082"
  },
  {
    "type": "blueprint",
-   "name": "SASG-12",
+   "name": "Converted USC",
    "score": "256",
-   "price": "PxC 998"
+   "price": "PxC 915"
  },
  {
    "type": "blueprint",
-   "name": "Holster",
+   "name": "Firearms BackPack",
    "score": "256",
-   "price": "PxC 416"
+   "price": "PxC 665"
  },
  {
    "type": "blueprint",
-   "name": "Stamina Knee Pads",
+   "name": "Electronics Backpack",
    "score": "256",
-   "price": "PxC 499"
+   "price": "PxC 665"
  },
  {
    "type": "blueprint",
-   "name": "Omega Rifle Suppressor - Tan<br/>Headshot Damage, Reduced Threat, Random, Random",
+   "name": "Flash Hider<br/>Accuracy, Random, Random",
    "score": "34",
    "price": "PxC 200"
  },
  {
    "type": "blueprint",
-   "name": "Mk4 M5A2 Scope (15x)<br/>Optimal Range, Random, Random",
+   "name": "Ti-RANT Suppressor <br/>Critical Hit chance ,Reduced Threat, Random, Random",
    "score": "34",
    "price": "PxC 200"
  },
  {
    "type": "blueprint",
-   "name": "Firearms Gear Mod",
+   "name": "Stamina Gear Mod",
    "score": "34",
    "price": "PxC 192"
  },
  {
    "type": "blueprint",
-   "name": "Electronics Gear Mod",
+   "name": "Performance Gear Mod",
    "score": "34",
    "price": "PxC 192"
  },
  {
    "type": "blueprint",
-   "name": "Military AK-47M",
+   "name": "Tactical SASG-12 K",
    "score": "229",
-   "price": "PxC 679"
+   "price": "PxC 627"
  },
  {
    "type": "blueprint",
@@ -61,14 +61,14 @@
  },
  {
    "type": "blueprint",
-   "name": "Officer's M9 A1",
-   "score": "204",
-   "price": "PxC 340"
+   "name": "Stamina Mask",
+   "score": "229",
+   "price": "PxC 365"
  },
  {
    "type": "blueprint",
-   "name": "Tactical ACR",
-   "score": "204",
-   "price": "PxC 340"
+   "name": "CQBSS Scope (8x)",
+   "score": "34",
+   "price": "PxC 171"
  }
 ]
