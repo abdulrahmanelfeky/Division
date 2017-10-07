@@ -2,18 +2,18 @@
  {
    "type": "gear-mod",
    "vendor": "DZ East 53rd",
-   "name": "Performance Mod",
-   "stat": "-",
+   "name": "Electronics Mod",
+   "stat": "243 ELE",
    "price": "DZ 21,362",
-   "attribute": "5.50% Sticky Bomb Explosion Radius"
+   "attribute": "2.5% Exotic Damage Resilience"
  },
  {
    "type": "gear-mod",
    "vendor": "DZ East 46th",
-   "name": "Electronics Mod",
-   "stat": "245 ELE",
+   "name": "Stamina Mod",
+   "stat": "244 STA",
    "price": "DZ 21,362",
-   "attribute": "3% Skill Haste"
+   "attribute": "2.5% Exotic Damage Resilience"
  },
  {
    "type": "gear-mod",
@@ -21,83 +21,67 @@
    "name": "Performance Mod",
    "stat": "-",
    "price": "DZ 21,362",
-   "attribute": "4.50% Ballistic Shield Damage Resilience"
+   "attribute": "6.5% Ballistic Shield Health"
  },
  {
    "type": "gear-mod",
    "vendor": "DZ East 40th",
-   "name": "Stamina Mod",
-   "stat": "231 STA",
+   "name": "Electronics Mod",
+   "stat": "243 ELE",
    "price": "DZ 21,362",
-   "attribute": "2% All Resistance"
+   "attribute": "2923 Skill Power"
  },
  {
    "type": "gear-mod",
    "vendor": "DZ East 34th",
-   "name": "Stamina Mod",
-   "stat": "262 STA",
+   "name": "Performance Mod",
+   "stat": "-",
    "price": "DZ 21,362",
-   "attribute": "3,188 Skill Power"
+   "attribute": "3.5% Turret Damage"
  },
  {
    "type": "gear-mod",
    "vendor": "DZ East 31st",
-   "name": "Performance Mod",
-   "stat": "-",
+   "name": "Electronics Mod",
+   "stat": "230 ELE",
    "price": "DZ 21,362",
-   "attribute": "7.0% Support Station Range"
+   "attribute": "2905 Skill Power"
  },
  {
    "type": "gear-mod",
    "vendor": "DZ West 53rd",
-   "name": "Stamina Mod",
-   "stat": "253 STA",
+   "name": "Performance Mod",
+   "stat": "-",
    "price": "DZ 21,362",
-   "attribute": "2% All Resistance"
+   "attribute": "4.5% Ballistic Shield Damage Resilience"
  },
  {
    "type": "gear-mod",
    "vendor": "DZ West 46th",
-   "name": "Firearms Mod",
-   "stat": "245 FA",
+   "name": "Performance Mod",
+   "stat": "-",
    "price": "DZ 21,362",
-   "attribute": "3,221 Skill Power"
+   "attribute": "4.5% Ballistic Shield Damage Resilience"
  },
  {
    "type": "gear-mod",
    "vendor": "DZ West 42nd",
-   "name": "Stamina Mod",
-   "stat": "236 STA",
+   "name": "Performance Mod",
+   "stat": "-",
    "price": "DZ 21,362",
-   "attribute": "1% Critical Hit Chance"
+   "attribute": "7% Support Station Range"
  },
  {
    "type": "gear-mod",
    "vendor": "DZ West 39th",
-   "name": "Stamina Mod",
-   "stat": "229 STA",
+   "name": "Performance Mod",
+   "stat": "-",
    "price": "DZ 21,362",
-   "attribute": "2,888 Health"
+   "attribute": "5.5% First Aid Self Heal"
  },
  {
    "type": "gear-mod",
    "vendor": "DZ West 34th",
-   "name": "Electronics Mod",
-   "stat": "236 ELE",
-   "price": "DZ 21,362",
-   "attribute": "4% Signature Resource Gain"
- },
- {
-   "type": "gear-mod",
-   "vendor": "DZ West 31st",
-   "name": "Performance Mod",
-   "stat": "-",
-   "price": "DZ 21,362",
-   "attribute": "7.5% Support Station Range"
- },
- {
-   "type": "gear-mod",
-   "vendor": "DZ 5th Ave",
    "name": "Performance Mod",
    "stat": "-",
    "price": "DZ 21,362",
@@ -105,31 +89,31 @@
  },
  {
    "type": "gear-mod",
-   "vendor": "DZ 04",
-   "name": "Stamina Mod",
-   "stat": "249 STA",
+   "vendor": "DZ West 31st",
+   "name": "Firearms Mod",
+   "stat": "254 FA",
    "price": "DZ 21,362",
-   "attribute": "3328 Health"
+   "attribute": "3% Skill Haste"
  },
  {
    "type": "gear-mod",
-   "vendor": "DZ 04",
+   "vendor": "DZ 5th Ave",
    "name": "Performance Mod",
    "stat": "-",
    "price": "DZ 21,362",
-   "attribute": "5% First Aid Ally Heal"
+   "attribute": "7.5% Turret Health"
  },
  {
    "type": "gear-mod",
-   "vendor": "East 64th",
-   "name": "Firearms Mod",
-   "stat": "253 FA",
+   "vendor": "DZ 04",
+   "name": "Stamina Mod",
+   "stat": "257 STA",
    "price": "DZ 21,362",
-   "attribute": "3199 Skill Power"
+   "attribute": "2.5% Exotic Damage Resilience"
  },
  {
    "type": "gear-mod",
-   "vendor": "East 64th",
+   "vendor": "DZ 04",
    "name": "Performance Mod",
    "stat": "-",
    "price": "DZ 21,362",
@@ -137,19 +121,35 @@
  },
  {
    "type": "gear-mod",
+   "vendor": "East 64th",
+   "name": "Stamina Mod",
+   "stat": "265 STA",
+   "price": "DZ 21,362",
+   "attribute": "1% Critical Hit Chance"
+ },
+ {
+   "type": "gear-mod",
+   "vendor": "East 64th",
+   "name": "Performance Mod",
+   "stat": "-",
+   "price": "DZ 21,362",
+   "attribute": "2.0% Pulse Critical Hit Damage"
+ },
+ {
+   "type": "gear-mod",
    "vendor": "The Firewall",
-   "name": "Electronics Mod",
-   "stat": "264 ELE",
+   "name": "Firearms Mod",
+   "stat": "234 FA",
    "price": "$ 168,044",
-   "attribute": "2% All Resistance"
+   "attribute": "2,991 Health"
  },
  {
    "type": "gear-mod",
    "vendor": "Southpaw",
-   "name": "Firearms Mod",
-   "stat": "239 FA",
+   "name": "Performance Mod",
+   "stat": "-",
    "price": "$ 168,044",
-   "attribute": "1% Critical Hit Chance"
+   "attribute": "4.0% Support Station Healing Speed"
  },
  {
    "type": "gear-mod",
@@ -157,55 +157,55 @@
    "name": "Performance Mod",
    "stat": "-",
    "price": "$ 168,044",
-   "attribute": "5% Ballistic Shield Damage Resilience"
+   "attribute": "4.50% Ballistic Shield Damage Resilience"
  },
  {
    "type": "gear-mod",
    "vendor": "Madison's Stand",
-   "name": "Firearms Mod",
-   "stat": "266 FA",
+   "name": "Performance Mod",
+   "stat": "-",
    "price": "$ 168,044",
-   "attribute": "4% Signature Resource Gain"
+   "attribute": "3.50% Mobile Cover Damage Resilience"
  },
  {
    "type": "gear-mod",
    "vendor": "Autumn's Hope",
-   "name": "Stamina Mod",
-   "stat": "246 STA",
+   "name": "Electronics Mod",
+   "stat": "265 ELE",
    "price": "$ 168,044",
    "attribute": "3% Skill Haste"
  },
  {
    "type": "gear-mod",
    "vendor": "Dante's Run",
-   "name": "Performance Mod",
-   "stat": "-",
+   "name": "Electronics Mod",
+   "stat": "250 ELE",
    "price": "$ 168,044",
-   "attribute": "4% Sticky Bomb Damage"
+   "attribute": "1.0% Critical Hit Chance"
  },
  {
    "type": "gear-mod",
    "vendor": "The Cavern",
-   "name": "Performance Mod",
-   "stat": "-",
+   "name": "Firearms Mod",
+   "stat": "245 FA",
    "price": "$ 168,044",
-   "attribute": "#N/A"
+   "attribute": "3% Skill Haste"
  },
  {
    "type": "gear-mod",
    "vendor": "Camp Hudson Gear Vendor",
-   "name": "Electronics Mod",
-   "stat": "264 ELE",
+   "name": "Performance Mod",
+   "stat": "-",
    "price": "$ 168,044",
-   "attribute": "3,239 Health"
+   "attribute": "1.50% Pulse Critical Hit Chance"
  },
  {
    "type": "gear-mod",
    "vendor": "BoO Gear Vendor",
-   "name": "Stamina Mod",
-   "stat": "260 STA",
+   "name": "Firearms Mod",
+   "stat": "243 FA",
    "price": "$ 168,044",
-   "attribute": "1.0% Critical Hit Chance"
+   "attribute": "3% Signature Resource Gain"
  },
  {
    "type": "gear-mod",
@@ -213,15 +213,15 @@
    "name": "Performance Mod",
    "stat": "-",
    "price": "DZ 21,362",
-   "attribute": "6.50% Turret Health"
+   "attribute": "4.50% Ballistic Shield Damage Resilience"
  },
  {
    "type": "gear-mod",
    "vendor": "Special Equipment Vendor",
-   "name": "Firearms Mod",
-   "stat": "242 FA",
+   "name": "Stamina Mod",
+   "stat": "236 STA",
    "price": "PxC 192",
-   "attribute": "3% Skill Haste"
+   "attribute": "1.0% Critical Hit Chance"
  },
  {
    "type": "gear-mod",
@@ -229,6 +229,6 @@
    "name": "Performance Mod",
    "stat": "-",
    "price": "PxC 192",
-   "attribute": "5.0% Sticky Bomb Explosion Radius"
+   "attribute": "6.0% First Aid Self Heal"
  }
 ]
