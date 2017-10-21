@@ -2,295 +2,295 @@
  {
    "type": "weapon-mod",
    "vendor": "DZ East 53rd",
-   "name": "MK5 Scope (15X) - Tan",
+   "name": "Handstop - FDE",
    "price": "DZ 24,137",
-   "attributes": "6% Headshot Damage<br/>2.5% Stability<br/>4% Critical Hit Damage "
+   "attributes": "29% Reload Speed<br/>4.5% Optimal Range<br/>2% Accuracy "
  },
  {
    "type": "weapon-mod",
    "vendor": "DZ East 46th",
-   "name": "PEQ-15 Laser - Red",
+   "name": "C79 Scope (3.4x)",
    "price": "DZ 24,137",
-   "attributes": "16.5% Accuracy<br/>5% Optimal Range<br/>4% Critical Hit Damage "
+   "attributes": "18% Critical Hit Damage<br/>2.5% Stability<br/>5% Optimal Range "
  },
  {
    "type": "weapon-mod",
    "vendor": "DZ East 42nd",
-   "name": "Reflex Sight",
+   "name": "Improved Iron Sights",
    "price": "DZ 24,137",
-   "attributes": "7% Critical Hit Chance<br/>2.5% Stability<br/>4% Critical Hit Damage "
+   "attributes": "12.5% Stability<br/>6% Headshot Damage<br/>2% Accuracy "
  },
  {
    "type": "weapon-mod",
    "vendor": "DZ East 40th",
-   "name": "Russian Red Dot Sight",
-   "price": "DZ 24,137",
-   "attributes": "16.5% Accuracy<br/>5.5% Headshot Damage<br/>2.5% Stability "
+   "name": "Extended Magazine",
+   "price": "DZ 21,362",
+   "attributes": "109% Magazine Size<br/>4.5% Reload Speed<br/>5.4% Rate of Fire "
  },
  {
    "type": "weapon-mod",
    "vendor": "DZ East 34th",
-   "name": "PEQ-15 Laser - Red",
+   "name": "Small Laser Pointer",
    "price": "DZ 24,137",
-   "attributes": "14.5% Accuracy<br/>2.5% Stability<br/>5% Reload Speed "
+   "attributes": "15% Accuracy<br/>4.50% Optimal Range<br/>4% Critical Hit Damage "
  },
  {
    "type": "weapon-mod",
    "vendor": "DZ East 31st",
-   "name": "Small Grip",
+   "name": "Omega Rifle Suppressor",
    "price": "DZ 24,137",
-   "attributes": "17% Critical Hit Damage<br/>4.5% Optimal Range<br/>2% Accuracy "
+   "attributes": "16.0% Headshot Damage<br/>2.50% Stability<br/>2.50% Critical Hit Chance<br/>50% Reduced Threat"
  },
  {
    "type": "weapon-mod",
    "vendor": "DZ West 53rd",
    "name": "Loud Vent Brake",
    "price": "DZ 24,137",
-   "attributes": "16% Critical Hit Damage<br/>2% Accuracy<br/>2.5% Critical Hit Chance<br/>50% Increased Threat"
+   "attributes": "16% Critical Hit Damage<br/>6% Headshot Damage<br/>2% Accuracy<br/>44% Increased Threat"
  },
  {
    "type": "weapon-mod",
    "vendor": "DZ West 46th",
-   "name": "High Velocity Magazine",
-   "price": "DZ 21,362",
-   "attributes": "7.5% Critical Hit Chance<br/>4% Critical Hit Damage<br/>11.5% Magazine Size "
+   "name": "Angled Grip - Red",
+   "price": "DZ 24,137",
+   "attributes": "13.5% Stability<br/>4.5% Reload Speed<br/>2% Accuracy "
  },
  {
    "type": "weapon-mod",
    "vendor": "DZ West 42nd",
-   "name": "Quick Release Magazine",
+   "name": "Extended Magazine",
    "price": "DZ 21,362",
-   "attributes": "31% Reload Speed<br/>4% Critical Hit Damage<br/>3% Critical Hit Chance "
+   "attributes": "111% Magazine Size<br/>4% Reload Speed<br/>5.4% Rate of Fire "
  },
  {
    "type": "weapon-mod",
    "vendor": "DZ West 39th",
-   "name": "Russian Red Dot Sight",
-   "price": "DZ 24,137",
-   "attributes": "15% Accuracy<br/>4.5% Optimal Range<br/>6% Headshot Damage "
+   "name": "High Velocity Magazine",
+   "price": "DZ 21,362",
+   "attributes": "6.5% Critical Hit Chance<br/>12% Magazine Size<br/>4% Critical Hit Damage "
  },
  {
    "type": "weapon-mod",
    "vendor": "DZ West 34th",
-   "name": "Handstop - FDE",
+   "name": "Omega Rifle Suppressor",
    "price": "DZ 24,137",
-   "attributes": "29.5% Reload Speed<br/>4.5% Optimal Range<br/>2.5% Stability "
+   "attributes": "17.5% Headshot Damage<br/>2.5% Stability<br/>4.5% Optimal Range<br/>47% Reduced Threat"
  },
  {
    "type": "weapon-mod",
    "vendor": "DZ West 31st",
    "name": "Small Laser Pointer",
    "price": "DZ 24,137",
-   "attributes": "16% Accuracy<br/>2.5% Stability<br/>5% Optimal Range "
+   "attributes": "15.5% Accuracy<br/>4% Critical Hit Damage<br/>2.5% Stability "
  },
  {
    "type": "weapon-mod",
    "vendor": "DZ 5th Ave",
-   "name": "Compensator",
+   "name": "PEQ-15 Laser - Red",
    "price": "DZ 24,137",
-   "attributes": "11.5% Stability<br/>6% Stability<br/>2% Accuracy "
+   "attributes": "16.5% Accuracy<br/>2.5% Critical Hit Damage<br/>5% Optimal Range "
  },
  {
    "type": "weapon-mod",
    "vendor": "DZ 05",
-   "name": "High Velocity Magazine",
-   "price": "DZ 21,362",
-   "attributes": "7.50% Critical Hit Chance<br/>4% Critical Hit Damage<br/>12.0% Magazine Size "
- },
- {
-   "type": "weapon-mod",
-   "vendor": "DZ 05",
-   "name": "Flash Hider",
-   "price": "DZ 24,137",
-   "attributes": "15.50% Accuracy<br/>2.50% Critical Hit Chance<br/>2.50% Stability "
- },
- {
-   "type": "weapon-mod",
-   "vendor": "DZ 05",
-   "name": "Handstop",
-   "price": "DZ 24,137",
-   "attributes": "27.50% Reload Speed<br/>4% Critical Hit Damage<br/>2.0% Accuracy "
- },
- {
-   "type": "weapon-mod",
-   "vendor": "DZ 05",
-   "name": "Mk4 M5A2 Scope (15x)",
-   "price": "DZ 24,137",
-   "attributes": "23.50% Optimal Range<br/>2.0% Accuracy<br/>4% Critical Hit Damage "
- },
- {
-   "type": "weapon-mod",
-   "vendor": "DZ 09",
    "name": "Extended Magazine",
    "price": "DZ 21,362",
-   "attributes": "121% Magazine Size<br/>4.0% Critical Hit Damage<br/>5.50% Rate of Fire "
+   "attributes": "117.50% Magazine Size<br/>3.0% Critical Hit Chance<br/>4.80% Rate of Fire "
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "DZ 05",
+   "name": "Osprey .45 Suppressor",
+   "price": "DZ 24,137",
+   "attributes": "15.0% Accuracy<br/>4% Critical Hit Damage<br/>2.50% Stability<br/>43% Reduced Threat"
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "DZ 05",
+   "name": "Handstop - Coyote",
+   "price": "DZ 24,137",
+   "attributes": "28.0% Reload Speed<br/>2.0% Accuracy<br/>2.50% Stability "
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "DZ 05",
+   "name": "Russian Red Dot Sight",
+   "price": "DZ 24,137",
+   "attributes": "15.0% Accuracy<br/>3.0% Critical Hit Chance<br/>2.50% Stability "
  },
  {
    "type": "weapon-mod",
    "vendor": "DZ 09",
-   "name": "Omega Rifle Suppressor - Tan",
-   "price": "DZ 24,137",
-   "attributes": "16.50% Headshot Damage<br/>4% Critical Hit Damage<br/>2.50% Stability<br/>47% Reduced Threat"
- },
- {
-   "type": "weapon-mod",
-   "vendor": "DZ 09",
-   "name": "Handstop - OD Green",
-   "price": "DZ 24,137",
-   "attributes": "29.50% Reload Speed<br/>5.0% Optimal Range<br/>2.50% Stability "
- },
- {
-   "type": "weapon-mod",
-   "vendor": "DZ 09",
-   "name": "ACOG Scope (4x) - Bronze",
-   "price": "DZ 24,137",
-   "attributes": "15.50% Accuracy<br/>2.50% Critical Hit Chance<br/>4% Critical Hit Damage "
- },
- {
-   "type": "weapon-mod",
-   "vendor": "East 61st",
-   "name": "Heavy Magazine Spring",
+   "name": "High Velocity Magazine",
    "price": "DZ 21,362",
-   "attributes": "3.0% Critical Hit Chance<br/>4% Critical Hit Damage <br/>10.20% Rate of Fire"
+   "attributes": "7% Critical Hit Chance<br/>5% Reload Speed<br/>5.3% Rate of Fire "
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "DZ 09",
+   "name": "Loud Vent Brake",
+   "price": "DZ 24,137",
+   "attributes": "16% Critical Hit Damage<br/>3% Critical Hit Chance<br/>4.5% Optimal Range<br/>47% Increased Threat"
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "DZ 09",
+   "name": "Small Laser Pointer",
+   "price": "DZ 24,137",
+   "attributes": "17% Accuracy<br/>4% Critical Hit Damage<br/>3% Stability "
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "DZ 09",
+   "name": "PRO Red Dot Sight - Tan",
+   "price": "DZ 24,137",
+   "attributes": "6% Headshot Damage<br/>2.5% Critical Hit Chance<br/>4.5% Optimal Range "
  },
  {
    "type": "weapon-mod",
    "vendor": "East 61st",
-   "name": "Compensator",
-   "price": "DZ 24,137",
-   "attributes": "13.50% Stability<br/>5.0% Optimal Range<br/>5.50% Headshot Damage "
+   "name": "Extended Magazine",
+   "price": "DZ 21,362",
+   "attributes": "118% Magazine Size<br/>3% Critical Hit Chance<br/>5.3% Rate of Fire "
  },
  {
    "type": "weapon-mod",
    "vendor": "East 61st",
-   "name": "Angled Grip - Red",
+   "name": "Ti-RANT Suppressor",
    "price": "DZ 24,137",
-   "attributes": "12.0% Stability<br/>4.50% Optimal Range<br/>5.0% Reload Speed "
+   "attributes": "7.5% Critical Hit Chance<br/>2.5% Stability<br/>2.5% Accuracy<br/>41% Reduced Threat"
  },
  {
    "type": "weapon-mod",
    "vendor": "East 61st",
-   "name": "Mk4 M5A2 Scope (15x)",
+   "name": "Handstop - FDE",
    "price": "DZ 24,137",
-   "attributes": "21.50% Optimal Range<br/>2.0% Accuracy<br/>6.0% Headshot Damage "
+   "attributes": "29.5% Reload Speed<br/>2.5% Stability<br/>2% Accuracy "
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "East 61st",
+   "name": "C79 Scope (3.4x)",
+   "price": "DZ 24,137",
+   "attributes": "16% Critical Hit Damage<br/>2% Accuracy<br/>2.5% Stability "
  },
  {
    "type": "weapon-mod",
    "vendor": "The Crypt",
-   "name": "Improved Iron Sights",
+   "name": "Compensator",
    "price": "$ 174,722",
-   "attributes": "13% Stability<br/>3% Critical Hit Chance<br/>4% Critical Hit Damage "
+   "attributes": "12.50% Stability<br/>5.0% Optimal Range<br/>4% Critical Hit Damage "
  },
  {
    "type": "weapon-mod",
    "vendor": "The Grindhouse",
-   "name": "ACOG Scope (4x) - FDE",
+   "name": "Flash Hider",
    "price": "$ 174,722",
-   "attributes": "16% Accuracy<br/>3% Critical Hit Chance<br/>4% Critical Hit Damage "
+   "attributes": "14.50% Accuracy<br/>5.50% Headshot Damage<br/>2.50% Critical Hit Chance "
  },
  {
    "type": "weapon-mod",
    "vendor": "The Last Call",
-   "name": "PEQ-15 Laser - Green",
+   "name": "Vertical Grip - Coyote Tan",
    "price": "$ 174,722",
-   "attributes": "14.5% Accuracy<br/>4.5% Reload Speed<br/>2.5% Stability "
+   "attributes": "47% Optimal Range<br/>2% Accuracy<br/>4% Critical Hit Damage "
  },
  {
    "type": "weapon-mod",
    "vendor": "Wolves Den",
-   "name": "Small Laser Pointer",
-   "price": "$ 174,722",
-   "attributes": "16.5% Accuracy<br/>5% Optimal Range<br/>4.5% Reload Speed "
+   "name": "Heavy Magazine Spring",
+   "price": "$ 168,044",
+   "attributes": "4.5% Reload Speed<br/>12% Magazine Size<br/>9.2% Rate of Fire "
  },
  {
    "type": "weapon-mod",
    "vendor": "Kerman Station",
-   "name": "Muzzle Brake",
+   "name": "Small Laser Pointer",
    "price": "$ 174,722",
-   "attributes": "11.5% Stability<br/>6% Headshot Damage<br/>2% Accuracy "
+   "attributes": "16.5% Accuracy<br/>4.5% Optimal Range<br/>4% Critical Hit Damage "
  },
  {
    "type": "weapon-mod",
    "vendor": "The Meat Locker",
-   "name": "Compensator",
+   "name": "PRO Red Dot Sight",
    "price": "$ 174,722",
-   "attributes": "11.5% Stability<br/>5.5% Headshot Damage<br/>4% Critical Hit Damage "
+   "attributes": "19% Critical Hit Damage<br/>2% Accuracy<br/>2.5% Critical Hit Chance "
  },
  {
    "type": "weapon-mod",
    "vendor": "Camp Hudson Weapon Vendor",
-   "name": "Muzzle Brake",
-   "price": "$ 174,722",
-   "attributes": "13% Stability<br/>3% Critical Hit Chance<br/>2% Accuracy "
+   "name": "Heavy Magazine Spring",
+   "price": "$ 168,044",
+   "attributes": "12% Magazine Size<br/>2.5% Critical Hit Chance<br/>9.8% Rate of Fire "
  },
  {
    "type": "weapon-mod",
    "vendor": "BoO Weapons Vendor",
-   "name": "Quick Release Magazine",
-   "price": "$ 168,044",
-   "attributes": "30.0% Reload Speed<br/>2.50% Critical Hit Chance <br/>4.90% Rate of Fire"
+   "name": "Ti-RANT Suppressor",
+   "price": "$ 174,722",
+   "attributes": "6.50% Critical Hit Chance<br/>2.0% Accuracy<br/>2.50% Stability<br/>48%% Reduced Threat"
  },
  {
    "type": "weapon-mod",
    "vendor": "DZ Vendor at BoO",
-   "name": "Osprey .45 Suppressor - FDE",
+   "name": "Rugged Mini Reflex Sight",
    "price": "DZ 24,137",
-   "attributes": "15% Accuracy<br/>4% Critical Hit Damage<br/>5% Optimal Range<br/>44% Reduced Threat"
+   "attributes": "7.50% Critical Hit Chance<br/>2.0% Accuracy<br/>6.0% Headshot Damage "
  },
  {
    "type": "weapon-mod",
    "vendor": "Advanced Weaponry Vendor",
-   "name": "High Velocity Magazine",
-   "price": "$ 168,044",
-   "attributes": "7.0% Critical Hit Chance<br/>4.50% Reload Speed<br/>11.50% Magazine Size "
- },
- {
-   "type": "weapon-mod",
-   "vendor": "Advanced Weaponry Vendor",
-   "name": "Omega Rifle Suppressor - Tan",
-   "price": "$ 174,722",
-   "attributes": "18.50% Headshot Damage<br/>3.0% Critical Hit Chance<br/>2.50% Stability<br/>47% Reduced Threat"
- },
- {
-   "type": "weapon-mod",
-   "vendor": "Advanced Weaponry Vendor",
-   "name": "Vertical Grip",
-   "price": "$ 174,722",
-   "attributes": "43.50% Optimal Range<br/>2.0% Accuracy<br/>4.50% Reload Speed "
- },
- {
-   "type": "weapon-mod",
-   "vendor": "Advanced Weaponry Vendor",
-   "name": "ACOG Scope (4x) - FDE",
-   "price": "$ 174,722",
-   "attributes": "15.50% Accuracy<br/>2.50% Stability<br/>4.50% Optimal Range "
- },
- {
-   "type": "weapon-mod",
-   "vendor": "Special Equipment Vendor",
    "name": "Heavy Magazine Spring",
-   "price": "PxC 192",
-   "attributes": "3% Critical Hit Chance<br/>4% Critical Hit Damage<br/>10.8% Rate of Fire "
+   "price": "$ 168,044",
+   "attributes": "4% Critical Hit Damage<br/>3.0% Critical Hit Chance<br/>9.50% Rate of Fire "
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "Advanced Weaponry Vendor",
+   "name": "Flash Hider",
+   "price": "$ 174,722",
+   "attributes": "14.50% Accuracy<br/>4% Critical Hit Damage<br/>3.0% Critical Hit Chance "
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "Advanced Weaponry Vendor",
+   "name": "Vertical Grip - Wolf Grey",
+   "price": "$ 174,722",
+   "attributes": "44.50% Optimal Range<br/>2.50% Stability<br/>4% Critical Hit Damage "
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "Advanced Weaponry Vendor",
+   "name": "Rugged Mini Reflex Sight",
+   "price": "$ 174,722",
+   "attributes": "7.0% Critical Hit Chance<br/>2.50% Stability<br/>2.0% Accuracy "
  },
  {
    "type": "weapon-mod",
    "vendor": "Special Equipment Vendor",
-   "name": "Osprey .45 Suppressor",
+   "name": "Quick Release Magazine",
+   "price": "PxC 192",
+   "attributes": "29% Reload Speed<br/>11% Magazine Size<br/>5.5% Rate of Fire "
+ },
+ {
+   "type": "weapon-mod",
+   "vendor": "Special Equipment Vendor",
+   "name": "Omega Rifle Suppressor",
    "price": "PxC 200",
-   "attributes": "14.5% Accuracy<br/>2.5% Stability<br/>5.5% Headshot Damage<br/>48% Reduced Threat"
+   "attributes": "18% Headshot Damage<br/>2% Accuracy<br/>2.5% Stability<br/>48% Reduced Threat"
  },
  {
    "type": "weapon-mod",
    "vendor": "Special Equipment Vendor",
    "name": "Vertical Grip",
    "price": "PxC 200",
-   "attributes": "47.5% Optimal Range<br/>4% Critical Hit Damage<br/>2% Accuracy "
+   "attributes": "47% Optimal Range<br/>2% Accuracy<br/>4% Critical Hit Damage "
  },
  {
    "type": "weapon-mod",
    "vendor": "Special Equipment Vendor",
-   "name": "MK5 Scope (15X) - Tan",
+   "name": "T2 Micro Red Dot Sight - Tan",
    "price": "PxC 200",
-   "attributes": "6% Headshot Damage<br/>3% Critical Hit Chance<br/>4% Critical Hit Damage "
+   "attributes": "6% Headshot Damage<br/>4.5% Optimal Range<br/>2.5% Critical Hit Chance "
  }
 ]
