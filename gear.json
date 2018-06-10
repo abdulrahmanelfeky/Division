@@ -1,1388 +1,2973 @@
 [
+
  {
+
    "type": "gear",
+
    "rarity": "header-he",
+
    "vendor": "DZ East 53rd",
-   "score": "275",
-   "name": "Resourceful Backpack",
-   "armor": "1,260",
-   "price": "DZ 277,440",
-   "fire": "-",
-   "stam": "1240",
-   "elec": "-",
-   "major": "12,568 Skill Power  ",
-   "minor": "15% Disrupt Resistance  "
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "DZ East 46th",
-   "score": "270",
-   "name": "Accomplished Knee Pads",
-   "armor": "1,472",
-   "price": "DZ 221,952",
-   "fire": "1209",
-   "stam": "-",
-   "elec": "-",
-   "major": "12,453 Skill Power  ",
-   "minor": "32% Bleed Resistance<br/>16% Damage to Elites<br/>52% Increased Kill XP"
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "DZ East 42nd",
-   "score": "277",
-   "name": "Reckless Chest",
-   "armor": "1,926",
-   "price": "DZ 277,440",
-   "fire": "-",
-   "stam": "-",
-   "elec": "1257",
-   "major": "4% All Resistance<br/>4% Health on Kill ",
-   "minor": "24% Increased Kill XP  "
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "DZ East 40th",
-   "score": "266",
-   "name": "Specialized Backpack",
-   "armor": "1,141",
-   "price": "DZ 277,440",
-   "fire": "1241",
-   "stam": "-",
-   "elec": "-",
-   "major": "15.0% Stability  ",
-   "minor": "14% Bleed Resistance  "
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "DZ East 34th",
-   "score": "268",
-   "name": "Tenacious Mask",
-   "armor": "877",
-   "price": "DZ 249,696",
-   "fire": "-",
-   "stam": "1174",
-   "elec": "-",
-   "major": "10.50% Exotic Damage Resilience  ",
-   "minor": "11% Damage to Elites  "
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "DZ East 31st",
-   "score": "276",
-   "name": "Astute Gloves",
-   "armor": "967",
-   "price": "DZ 221,952",
-   "fire": "1197",
-   "stam": "-",
-   "elec": "-",
-   "major": "12% LMG Damage<br/>5.50% Critical Hit Chance<br/>8% Skill Haste",
-   "minor": "-   "
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "DZ West 53rd",
-   "score": "273",
-   "name": "Accomplished Knee Pads",
-   "armor": "1,575",
-   "price": "DZ 221,952",
-   "fire": "-",
-   "stam": "1170",
-   "elec": "-",
-   "major": "4.0% Enemy Armor Damage  ",
-   "minor": "12% Damage to Elites<br/>30% Disrupt Resistance<br/>27% Shock Resistance"
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "DZ West 46th",
-   "score": "280",
-   "name": "Robust Chest",
-   "armor": "1,990",
-   "price": "DZ 277,440",
-   "fire": "-",
-   "stam": "1253",
-   "elec": "-",
-   "major": "4% All Resistance<br/>4% Health on Kill ",
-   "minor": "25% Increased Kill XP  "
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "DZ West 42nd",
-   "score": "262",
-   "name": "Decisive Gloves",
-   "armor": "866",
-   "price": "DZ 221,952",
-   "fire": "-",
-   "stam": "-",
-   "elec": "1149",
-   "major": "11% Assault Rifle Damage<br/>11% Pistol Damage<br/>5.0% Critical Hit Chance",
-   "minor": "-   "
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "DZ West 39th",
-   "score": "270",
-   "name": "Sturdy Holster",
-   "armor": "946",
-   "price": "DZ 194,208",
-   "fire": "1150",
-   "stam": "1256",
-   "elec": "1187",
-   "major": "6% Skill Haste  ",
-   "minor": "-   "
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "DZ West 34th",
-   "score": "274",
-   "name": "Accomplished Knee Pads",
-   "armor": "1,648",
-   "price": "DZ 221,952",
-   "fire": "1116",
-   "stam": "-",
-   "elec": "-",
-   "major": "4.0% Enemy Armor Damage  ",
-   "minor": "28% Blind/Deaf Resistance<br/>29% Burn Resistance<br/>31% Disorient Resistance"
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "DZ West 31st",
-   "score": "273",
-   "name": "Accomplished Knee Pads",
-   "armor": "1,564",
-   "price": "DZ 221,952",
-   "fire": "-",
-   "stam": "1156",
-   "elec": "-",
-   "major": "4.0% Enemy Armor Damage  ",
-   "minor": "32% Blind/Deaf Resistance<br/>55% Increased Kill XP<br/>29% Disrupt Resistance"
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "DZ 5th Ave",
-   "score": "270",
-   "name": "Astute Gloves",
-   "armor": "876",
-   "price": "DZ 221,952",
-   "fire": "-",
-   "stam": "1204",
-   "elec": "-",
-   "major": "9% Skill Haste<br/>12% SMG Damage<br/>15% Critical Hit Damage",
-   "minor": "-   "
- },
- {
-   "type": "gear",
-   "rarity": "header-gs",
-   "vendor": "DZ 06",
-   "score": "278",
-   "name": "FireCrest Mask",
-   "armor": "915",
-   "price": "DZ 249,696",
-   "fire": "-",
-   "stam": "-",
-   "elec": "1261",
-   "major": "4% All Resistance  ",
-   "minor": "17% Blind/Deaf Resistance  "
- },
- {
-   "type": "gear",
-   "rarity": "header-gs",
-   "vendor": "DZ 06",
-   "score": "262",
-   "name": "AlphaBridge Chest",
-   "armor": "1,708",
-   "price": "DZ 277,440",
-   "fire": "-",
-   "stam": "1139",
-   "elec": "-",
-   "major": "4% Health on Kill<br/>16320 Health ",
-   "minor": "26% Increased Kill XP  "
- },
- {
-   "type": "gear",
-   "rarity": "header-gs",
-   "vendor": "DZ 06",
-   "score": "263",
-   "name": "Sentry Backpack",
-   "armor": "1,217",
-   "price": "DZ 277,440",
-   "fire": "1118",
-   "stam": "-",
-   "elec": "-",
-   "major": "11757 Skill Power  ",
-   "minor": "15% Burn Resistance  "
- },
- {
-   "type": "gear",
-   "rarity": "header-gs",
-   "vendor": "DZ 06",
-   "score": "271",
-   "name": "Banshee Knee Pads",
-   "armor": "1,448",
-   "price": "DZ 221,952",
-   "fire": "1237",
-   "stam": "-",
-   "elec": "-",
-   "major": "3% All Resistance  ",
-   "minor": "29% Burn Resistance<br/>27% Disrupt Resistance<br/>29% Blind/Deaf Resistance"
- },
- {
-   "type": "gear",
-   "rarity": "header-gs",
-   "vendor": "DZ 06",
-   "score": "268",
-   "name": "FireCrest Holster",
-   "armor": "877",
-   "price": "DZ 194,208",
-   "fire": "1231",
-   "stam": "-",
-   "elec": "-",
-   "major": "7885 Health  ",
-   "minor": "-   "
- },
- {
-   "type": "gear",
-   "rarity": "header-gs",
-   "vendor": "DZ 06",
-   "score": "273",
-   "name": "FireCrest Gloves",
-   "armor": "953",
-   "price": "DZ 277,440",
-   "fire": "1217",
-   "stam": "-",
-   "elec": "-",
-   "major": "11% Assault Rifle Damage<br/>7% Skill Haste<br/>7% Enemy Armor Damage",
-   "minor": "-   "
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "DZ 02",
-   "score": "271",
-   "name": "Refreshed Mask",
-   "armor": "938",
-   "price": "DZ 249,696",
-   "fire": "-",
-   "stam": "1153",
-   "elec": "-",
-   "major": "3.5% Critical Hit Chance  ",
-   "minor": "14% Increased Kill XP  "
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "DZ 02",
-   "score": "272",
-   "name": "Forceful Chest",
-   "armor": "1,808",
-   "price": "DZ 277,440",
-   "fire": "-",
-   "stam": "-",
-   "elec": "1210",
-   "major": "4% All Resistance<br/>16,022 Health ",
-   "minor": "25% Increased Kill XP  "
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "DZ 02",
-   "score": "266",
-   "name": "Resourceful Backpack",
-   "armor": "1,239",
-   "price": "DZ 277,440",
-   "fire": "-",
-   "stam": "-",
-   "elec": "1167",
-   "major": "14.5% Stability  ",
-   "minor": "14% Disrupt Resistance  "
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "DZ 02",
-   "score": "273",
-   "name": "Accomplished Knee Pads",
-   "armor": "1,597",
-   "price": "DZ 221,952",
-   "fire": "-",
-   "stam": "1199",
-   "elec": "-",
-   "major": "14,499 Health  ",
-   "minor": "33% Shock Resistance<br/>32% Burn Resistance<br/>31% Disorient Resistance"
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "DZ 02",
-   "score": "268",
-   "name": "Nimble Holster",
-   "armor": "874",
-   "price": "DZ 194,208",
-   "fire": "1177",
-   "stam": "1126",
-   "elec": "1190",
-   "major": "8,320 Health  ",
-   "minor": "-   "
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "DZ 02",
-   "score": "265",
-   "name": "Savage Gloves",
-   "armor": "885",
-   "price": "DZ 221,952",
-   "fire": "-",
-   "stam": "-",
-   "elec": "1123",
-   "major": "4% Health on Kill<br/>6% Critical Hit Chance<br/>9% Skill Haste",
-   "minor": "-   "
- },
- {
-   "type": "gear",
-   "rarity": "header-gs",
-   "vendor": "DZ 09",
-   "score": "275",
-   "name": "Final Measure Mask",
-   "armor": "952",
-   "price": "DZ 249,696",
-   "fire": "-",
-   "stam": "-",
-   "elec": "1174",
-   "major": "4% All Resistance  ",
-   "minor": "11% Damage to Elites  "
- },
- {
-   "type": "gear",
-   "rarity": "header-gs",
-   "vendor": "DZ 09",
-   "score": "279",
-   "name": "FireCrest Chest",
-   "armor": "1,915",
-   "price": "DZ 277,440",
-   "fire": "-",
-   "stam": "1259",
-   "elec": "-",
-   "major": "5.5% Enemy Armor Damage<br/>4% All Resistance ",
-   "minor": "52% Ammo Capacity  "
- },
- {
-   "type": "gear",
-   "rarity": "header-gs",
-   "vendor": "DZ 09",
-   "score": "268",
-   "name": "AlphaBridge Backpack",
-   "armor": "1,269",
-   "price": "DZ 277,440",
-   "fire": "-",
-   "stam": "-",
-   "elec": "1119",
-   "major": "15.5% Stability  ",
-   "minor": "16% Burn Resistance  "
- },
- {
-   "type": "gear",
-   "rarity": "header-gs",
-   "vendor": "DZ 09",
-   "score": "280",
-   "name": "FireCrest Knee Pads",
-   "armor": "1,607",
-   "price": "DZ 221,952",
-   "fire": "-",
-   "stam": "1260",
-   "elec": "-",
-   "major": "16,260 Health  ",
-   "minor": "32% Blind/Deaf Resistance<br/>30% Disorient Resistance<br/>29% Shock Resistance"
- },
- {
-   "type": "gear",
-   "rarity": "header-gs",
-   "vendor": "DZ 09",
-   "score": "269",
-   "name": "FireCrest Holster",
-   "armor": "971",
-   "price": "DZ 194,208",
-   "fire": "1158",
-   "stam": "1199",
-   "elec": "1135",
-   "major": "6% Skill Haste  ",
-   "minor": "-   "
- },
- {
-   "type": "gear",
-   "rarity": "header-gs",
-   "vendor": "DZ 09",
-   "score": "273",
-   "name": "DeadEYE Gloves",
-   "armor": "969",
-   "price": "DZ 277,440",
-   "fire": "-",
-   "stam": "-",
-   "elec": "1200",
-   "major": "7% Enemy Armor Damage<br/>11% Marksman Rifle Damage<br/>4% Health on Kill",
-   "minor": "-   "
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "DZ 08",
-   "score": "276",
-   "name": "Rehabilitated Mask",
-   "armor": "961",
-   "price": "DZ 249,696",
-   "fire": "-",
-   "stam": "1256",
-   "elec": "-",
-   "major": "9.5% Exotic Damage Resilience  ",
-   "minor": "13% Increased Kill XP  "
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "DZ 08",
+
    "score": "264",
-   "name": "Reckless Chest",
-   "armor": "1,767",
+
+   "name": "Forceful Chest",
+
+   "armor": "1,747",
+
    "price": "DZ 277,440",
+
    "fire": "-",
-   "stam": "1137",
-   "elec": "-",
-   "major": "5.5% Enemy Armor Damage<br/>7% Skill Haste ",
-   "minor": "27% Increased Kill XP  "
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "DZ 08",
-   "score": "266",
-   "name": "Inventive Backpack",
-   "armor": "1,142",
-   "price": "DZ 277,440",
-   "fire": "-",
-   "stam": "1160",
-   "elec": "-",
-   "major": "13,137 Health  ",
-   "minor": "16% Burn Resistance  "
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "DZ 08",
-   "score": "261",
-   "name": "Accomplished Knee Pads",
-   "armor": "1,427",
-   "price": "DZ 221,952",
-   "fire": "1171",
+
    "stam": "-",
-   "elec": "-",
-   "major": "7% Critical Hit Damage  ",
-   "minor": "28% Shock Resistance<br/>29% Disorient Resistance<br/>15% Damage to Elites"
+
+   "elec": "1133",
+
+   "major": "9.50% Exotic Damage Resilience<br/>4% All Resistance ",
+
+   "minor": "25% Increased Kill XP  ",
+
+   "recommended": "No"
+
  },
+
  {
+
    "type": "gear",
+
    "rarity": "header-he",
-   "vendor": "DZ 08",
-   "score": "269",
-   "name": "Nimble Holster",
-   "armor": "898",
-   "price": "DZ 194,208",
-   "fire": "1154",
-   "stam": "1137",
-   "elec": "1254",
-   "major": "8,027 Health  ",
-   "minor": "-   "
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "DZ 08",
-   "score": "269",
-   "name": "Savage Gloves",
-   "armor": "857",
-   "price": "DZ 221,952",
-   "fire": "1249",
-   "stam": "-",
-   "elec": "-",
-   "major": "16% Critical Hit Damage<br/>10% Assault Rifle Damage<br/>12% Pistol Damage",
-   "minor": "-   "
- },
- {
-   "type": "gear",
-   "rarity": "header-gs",
-   "vendor": "DZ 08",
-   "score": "269",
-   "name": "Banshee Mask",
-   "armor": "935",
-   "price": "DZ 249,696",
-   "fire": "-",
-   "stam": "-",
-   "elec": "1194",
-   "major": "9% Exotic Damage Resilience  ",
-   "minor": "16% Burn Resistance  "
- },
- {
-   "type": "gear",
-   "rarity": "header-gs",
-   "vendor": "DZ 08",
-   "score": "273",
-   "name": "DeadEYE Chest",
-   "armor": "1,790",
-   "price": "DZ 277,440",
-   "fire": "-",
-   "stam": "1189",
-   "elec": "-",
-   "major": "9% Skill Haste<br/>4% All Resistance ",
-   "minor": "56% Ammo Capacity  "
- },
- {
-   "type": "gear",
-   "rarity": "header-gs",
-   "vendor": "DZ 08",
-   "score": "270",
-   "name": "D3-FNC Backpack",
-   "armor": "1,282",
-   "price": "DZ 277,440",
-   "fire": "1132",
-   "stam": "-",
-   "elec": "-",
-   "major": "8% Critical Hit Damage  ",
-   "minor": "15% Bleed Resistance  "
- },
- {
-   "type": "gear",
-   "rarity": "header-gs",
-   "vendor": "DZ 08",
-   "score": "271",
-   "name": "Hunter's Faith Knee Pads",
-   "armor": "1,552",
-   "price": "DZ 221,952",
-   "fire": "-",
-   "stam": "1141",
-   "elec": "-",
-   "major": "16,309 Health  ",
-   "minor": "31% Bleed Resistance<br/>51% Increased Kill XP<br/>32% Shock Resistance"
- },
- {
-   "type": "gear",
-   "rarity": "header-gs",
-   "vendor": "DZ 08",
-   "score": "279",
-   "name": "Banshee Holster",
-   "armor": "973",
-   "price": "DZ 194,208",
-   "fire": "1198",
-   "stam": "1236",
-   "elec": "1182",
-   "major": "7% Skill Haste  ",
-   "minor": "-   "
- },
- {
-   "type": "gear",
-   "rarity": "header-gs",
-   "vendor": "DZ 08",
+
+   "vendor": "DZ East 46th",
+
    "score": "274",
-   "name": "Predator's Mark Gloves",
-   "armor": "986",
-   "price": "DZ 277,440",
-   "fire": "1132",
+
+   "name": "Accomplished Knee Pads",
+
+   "armor": "1,566",
+
+   "price": "DZ 221,952",
+
+   "fire": "1251",
+
    "stam": "-",
+
    "elec": "-",
-   "major": "5% Health on Kill<br/>11% Marksman Rifle Damage<br/>7.5% Enemy Armor Damage",
-   "minor": "-   "
+
+   "major": "7% Exotic Damage Resilience  ",
+
+   "minor": "28% Shock Resistance<br/>32% Bleed Resistance<br/>29% Burn Resistance",
+
+   "recommended": "No"
+
  },
+
  {
+
    "type": "gear",
+
    "rarity": "header-he",
-   "vendor": "East 58th",
-   "score": "277",
-   "name": "Enduring Mask",
+
+   "vendor": "DZ East 42nd",
+
+   "score": "280",
+
+   "name": "Nimble Holster",
+
    "armor": "983",
-   "price": "DZ 249,696",
-   "fire": "1200",
-   "stam": "-",
-   "elec": "-",
-   "major": "4% All Resistance  ",
-   "minor": "14% Disorient Resistance  "
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "East 58th",
-   "score": "266",
-   "name": "Forceful Chest",
-   "armor": "1,737",
-   "price": "DZ 277,440",
-   "fire": "-",
-   "stam": "1184",
-   "elec": "-",
-   "major": "8% Skill Haste<br/>4% Health on Kill ",
-   "minor": "28% Increased Kill XP  "
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "East 58th",
-   "score": "275",
-   "name": "Inventive Backpack",
-   "armor": "1,312",
-   "price": "DZ 277,440",
-   "fire": "1157",
-   "stam": "-",
-   "elec": "-",
-   "major": "13,081 Skill Power  ",
-   "minor": "15% Bleed Resistance  "
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "East 58th",
-   "score": "271",
-   "name": "Accomplished Knee Pads",
-   "armor": "1,532",
-   "price": "DZ 221,952",
-   "fire": "-",
-   "stam": "-",
-   "elec": "1219",
-   "major": "15,241 Health  ",
-   "minor": "12% Damage to Elites<br/>32% Bleed Resistance<br/>29% Blind/Deaf Resistance"
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "East 58th",
-   "score": "272",
-   "name": "Steadfast Holster",
-   "armor": "894",
+
    "price": "DZ 194,208",
-   "fire": "1259",
-   "stam": "1245",
-   "elec": "1122",
-   "major": "8,160 Health  ",
-   "minor": "-   "
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "East 58th",
-   "score": "273",
-   "name": "Savage Gloves",
-   "armor": "934",
-   "price": "DZ 221,952",
-   "fire": "-",
-   "stam": "1261",
-   "elec": "-",
-   "major": "7% Enemy Armor Damage<br/>14% Critical Hit Damage<br/>11% LMG Damage",
-   "minor": "-   "
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "The Firewall",
-   "score": "272",
-   "name": "Reckless Chest",
-   "armor": "1,916",
-   "price": "$ 1,112,880",
-   "fire": "1190",
-   "stam": "-",
-   "elec": "-",
-   "major": "4% All Resistance<br/>4% Health on Kill ",
-   "minor": "46% Ammo Capacity  "
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "Southpaw",
-   "score": "268",
-   "name": "Forceful Chest",
-   "armor": "1,754",
-   "price": "$ 1,112,880",
-   "fire": "1218",
-   "stam": "-",
-   "elec": "-",
-   "major": "8% Skill Haste<br/>4% All Resistance ",
-   "minor": "46% Ammo Capacity  "
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "The Ward",
-   "score": "270",
-   "name": "Reckless Chest",
-   "armor": "1,879",
-   "price": "$ 1,112,880",
-   "fire": "1128",
-   "stam": "-",
-   "elec": "-",
-   "major": "9% Skill Haste<br/>5.5% Enemy Armor Damage ",
-   "minor": "26% Increased Kill XP  "
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "Madison's Stand",
-   "score": "274",
-   "name": "Cunning Gloves",
-   "armor": "993",
-   "price": "$ 890,304",
-   "fire": "-",
-   "stam": "1175",
-   "elec": "-",
-   "major": "5.5% Critical Hit Chance<br/>10% LMG Damage<br/>7.5% Enemy Armor Damage",
-   "minor": "-   "
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "Autumn's Hope",
-   "score": "262",
-   "name": "Rehabilitated Mask",
-   "armor": "907",
-   "price": "$ 1,001,592",
-   "fire": "-",
-   "stam": "-",
-   "elec": "1114",
-   "major": "3%% Critical Hit Chance  ",
-   "minor": "11%% Damage to Elites  "
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "Dante's Run",
-   "score": "273",
-   "name": "Accomplished Knee Pads",
-   "armor": "1,563",
-   "price": "$ 890,304",
-   "fire": "-",
-   "stam": "-",
-   "elec": "1173",
-   "major": "15,770 Health  ",
-   "minor": "15%% Damage to Elites<br/>33%% Burn Resistance<br/>32%% Disorient Resistance"
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "The Cavern",
-   "score": "267",
-   "name": "Sturdy Holster",
-   "armor": "935",
-   "price": "$ 779,016",
-   "fire": "1217",
-   "stam": "1142",
-   "elec": "1167",
-   "major": "17.50%% Reload Speed  ",
-   "minor": "-   "
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "Camp Hudson Gear Vendor",
-   "score": "277",
-   "name": "Prosperous Knee Pads",
-   "armor": "1,605",
-   "price": "$ 890,304",
-   "fire": "-",
-   "stam": "1238",
-   "elec": "-",
-   "major": "15520 Health  ",
-   "minor": "13%% Damage to Elites<br/>52%% Increased Kill XP<br/>32%% Blind/Deaf Resistance"
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "BoO Gear Vendor",
-   "score": "269",
-   "name": "Robust Chest",
-   "armor": "1,777",
-   "price": "$ 1,112,880",
-   "fire": "1193",
-   "stam": "-",
-   "elec": "-",
-   "major": "4% All Resistance<br/>4% Health on Kill ",
-   "minor": "28% Increased Kill XP  "
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "DZ Vendor at BoO",
-   "score": "270",
-   "name": "Prosperous Knee Pads",
-   "armor": "1,447",
-   "price": "DZ 221,952",
-   "fire": "-",
-   "stam": "1245",
-   "elec": "-",
-   "major": "16,087 Health  ",
-   "minor": "12% Damage to Elites<br/>31% Burn Resistance<br/>27% Bleed Resistance"
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "Special Equipment Vendor",
-   "score": "263",
-   "name": "Rehabilitated Mask",
-   "armor": "878",
-   "price": "PxC 749",
-   "fire": "-",
-   "stam": "-",
-   "elec": "1148",
-   "major": "9,341 Skill Power  ",
-   "minor": "14% Blind/Deaf Resistance  "
- },
- {
-   "type": "gear",
-   "rarity": "header-gs",
-   "vendor": "Special Equipment Vendor",
-   "score": "277",
-   "name": "Hunter's Faith Mask",
-   "armor": "955",
-   "price": "PxC 749",
-   "fire": "-",
-   "stam": "1267",
-   "elec": "-",
-   "major": "7.50% Enemy Armor Damage  ",
-   "minor": "9% Damage to Elites  "
- },
- {
-   "type": "gear",
-   "rarity": "header-gs",
-   "vendor": "Special Equipment Vendor",
-   "score": "266",
-   "name": "Reclaimer Mask",
-   "armor": "874",
-   "price": "PxC 749",
-   "fire": "1147",
-   "stam": "-",
-   "elec": "-",
-   "major": "4.0% Critical Hit Chance  ",
-   "minor": "14% Burn Resistance  "
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "Special Equipment Vendor",
-   "score": "270",
-   "name": "Vigorous Chest",
-   "armor": "1,763",
-   "price": "PxC 832",
-   "fire": "-",
-   "stam": "-",
-   "elec": "1207",
-   "major": "5% Health on Kill<br/>4% All Resistance ",
-   "minor": "23% Increased Kill XP  "
- },
- {
-   "type": "gear",
-   "rarity": "header-gs",
-   "vendor": "Special Equipment Vendor",
-   "score": "262",
-   "name": "Lone Star Chest",
-   "armor": "1,759",
-   "price": "PxC 832",
-   "fire": "-",
-   "stam": "1121",
-   "elec": "-",
-   "major": "4% All Resistance<br/>4% Health on Kill ",
-   "minor": "23% Increased Kill XP  "
- },
- {
-   "type": "gear",
-   "rarity": "header-gs",
-   "vendor": "Special Equipment Vendor",
-   "score": "277",
-   "name": "Banshee Chest",
-   "armor": "1,959",
-   "price": "PxC 832",
-   "fire": "-",
-   "stam": "-",
-   "elec": "1182",
-   "major": "16,392 Health<br/>4% All Resistance ",
-   "minor": "51% Ammo Capacity  "
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "Special Equipment Vendor",
-   "score": "267",
-   "name": "Technical Backpack",
-   "armor": "1,178",
-   "price": "PxC 832",
-   "fire": "-",
-   "stam": "1228",
-   "elec": "-",
-   "major": "11,965 Health  ",
-   "minor": "14% Bleed Resistance  "
- },
- {
-   "type": "gear",
-   "rarity": "header-gs",
-   "vendor": "Special Equipment Vendor",
-   "score": "285",
-   "name": "Sentry Backpack",
-   "armor": "1,317",
-   "price": "PxC 832",
-   "fire": "1271",
-   "stam": "-",
-   "elec": "-",
-   "major": "13,229 Health  ",
-   "minor": "17% Disrupt Resistance  "
- },
- {
-   "type": "gear",
-   "rarity": "header-gs",
-   "vendor": "Special Equipment Vendor",
-   "score": "276",
-   "name": "Nomad Backpack",
-   "armor": "1,298",
-   "price": "PxC 832",
-   "fire": "-",
-   "stam": "-",
-   "elec": "1240",
-   "major": "8% Critical Hit Damage  ",
-   "minor": "46% Ammo Capacity  "
- },
- {
-   "type": "gear",
-   "rarity": "header-gs",
-   "vendor": "Special Equipment Vendor",
-   "score": "261",
-   "name": "AlphaBridge Backpack",
-   "armor": "1,139",
-   "price": "PxC 832",
-   "fire": "-",
-   "stam": "-",
-   "elec": "1122",
-   "major": "12,516 Health  ",
-   "minor": "15% Disrupt Resistance  "
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "Special Equipment Vendor",
-   "score": "270",
-   "name": "Prosperous Knee Pads",
-   "armor": "1,553",
-   "price": "PxC 665",
-   "fire": "1182",
-   "stam": "-",
-   "elec": "-",
-   "major": "8% Critical Hit Damage  ",
-   "minor": "27% Disrupt Resistance<br/>50% Increased Kill XP<br/>29% Bleed Resistance"
- },
- {
-   "type": "gear",
-   "rarity": "header-gs",
-   "vendor": "Special Equipment Vendor",
-   "score": "281",
-   "name": "Predator's Mark Knee Pads",
-   "armor": "1,643",
-   "price": "PxC 665",
-   "fire": "-",
-   "stam": "1217",
-   "elec": "-",
-   "major": "3% All Resistance  ",
-   "minor": "54% Increased Kill XP<br/>32% Shock Resistance<br/>29% Disorient Resistance"
- },
- {
-   "type": "gear",
-   "rarity": "header-gs",
-   "vendor": "Special Equipment Vendor",
-   "score": "277",
-   "name": "D3-FNC Knee Pads",
-   "armor": "1,653",
-   "price": "PxC 665",
-   "fire": "-",
-   "stam": "1254",
-   "elec": "-",
-   "major": "3.0% Enemy Armor Damage  ",
-   "minor": "13% Damage to Elites<br/>30% Disrupt Resistance<br/>54% Increased Kill XP"
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "Special Equipment Vendor",
-   "score": "268",
-   "name": "Sturdy Holster",
-   "armor": "861",
-   "price": "PxC 582",
-   "fire": "1267",
-   "stam": "1268",
-   "elec": "1174",
-   "major": "3.50% Critical Hit Chance  ",
-   "minor": "-   "
- },
- {
-   "type": "gear",
-   "rarity": "header-gs",
-   "vendor": "Special Equipment Vendor",
-   "score": "279",
-   "name": "Tactician Holster",
-   "armor": "997",
-   "price": "PxC 582",
-   "fire": "1205",
-   "stam": "1155",
-   "elec": "1244",
-   "major": "21.0% Reload Speed  ",
-   "minor": "-   "
- },
- {
-   "type": "gear",
-   "rarity": "header-gs",
-   "vendor": "Special Equipment Vendor",
-   "score": "266",
-   "name": "FireCrest Holster",
-   "armor": "878",
-   "price": "PxC 582",
-   "fire": "1252",
-   "stam": "1176",
-   "elec": "1254",
-   "major": "6% Skill Haste  ",
-   "minor": "-   "
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "Special Equipment Vendor",
-   "score": "272",
-   "name": "Decisive Gloves",
-   "armor": "931",
-   "price": "PxC 665",
-   "fire": "-",
-   "stam": "-",
-   "elec": "1271",
-   "major": "10% SMG Damage<br/>7.0% Enemy Armor Damage<br/>5.0% Critical Hit Chance",
-   "minor": "-   "
- },
- {
-   "type": "gear",
-   "rarity": "header-gs",
-   "vendor": "Special Equipment Vendor",
-   "score": "277",
-   "name": "Striker Gloves",
-   "armor": "957",
-   "price": "PxC 665",
-   "fire": "1253",
-   "stam": "-",
-   "elec": "-",
-   "major": "12% Assault Rifle Damage<br/>16% Critical Hit Damage<br/>4% Health on Kill",
-   "minor": "-   "
- },
- {
-   "type": "gear",
-   "rarity": "header-gs",
-   "vendor": "Special Equipment Vendor",
-   "score": "272",
-   "name": "Final Measure Gloves",
-   "armor": "935",
-   "price": "PxC 665",
+
    "fire": "1219",
-   "stam": "-",
-   "elec": "-",
-   "major": "14% Critical Hit Damage<br/>12% Marksman Rifle Damage<br/>5.0% Critical Hit Chance",
-   "minor": "-   "
- },
- {
-   "type": "gear",
-   "rarity": "header-gs",
-   "vendor": "Special Equipment Vendor",
-   "score": "268",
-   "name": "DeadEYE Gloves",
-   "armor": "871",
-   "price": "PxC 665",
-   "fire": "-",
-   "stam": "1259",
-   "elec": "-",
-   "major": "15% Critical Hit Damage<br/>4% Health on Kill<br/>11% SMG Damage",
-   "minor": "-   "
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "Camp Clinton",
-   "score": "260",
-   "name": "Rejuvenated Mask",
-   "armor": "871",
-   "price": "PxC 749",
-   "fire": "-",
-   "stam": "-",
-   "elec": "1149",
-   "major": "4% Health on Kill  ",
-   "minor": "12% Increased Kill XP  "
- },
- {
-   "type": "gear",
-   "rarity": "header-gs",
-   "vendor": "Camp Clinton",
-   "score": "272",
-   "name": "Final Measure Mask",
-   "armor": "967",
-   "price": "PxC 749",
-   "fire": "1240",
-   "stam": "-",
-   "elec": "-",
-   "major": "4% Health on Kill  ",
-   "minor": "14% Disorient Resistance  "
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "Camp Clinton",
-   "score": "266",
-   "name": "Reckless Chest",
-   "armor": "1,809",
-   "price": "PxC 832",
-   "fire": "1171",
-   "stam": "-",
-   "elec": "-",
-   "major": "5.50% Enemy Armor Damage<br/>9.50% Exotic Damage Resilience ",
-   "minor": "24% Increased Kill XP  "
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "Camp Clinton",
-   "score": "270",
-   "name": "Specialized Backpack",
-   "armor": "1,180",
-   "price": "PxC 832",
-   "fire": "1243",
-   "stam": "-",
-   "elec": "-",
-   "major": "8% Critical Hit Damage  ",
-   "minor": "49% Ammo Capacity  "
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "Camp Clinton",
-   "score": "275",
-   "name": "Accomplished Knee Pads",
-   "armor": "1,540",
-   "price": "PxC 665",
-   "fire": "-",
+
    "stam": "1263",
-   "elec": "-",
-   "major": "15,399 Health  ",
-   "minor": "29% Burn Resistance<br/>29% Shock Resistance<br/>31% Disorient Resistance"
+
+   "elec": "1151",
+
+   "major": "4% Critical Hit Chance  ",
+
+   "minor": "-   ",
+
+   "recommended": "No"
+
  },
+
  {
+
    "type": "gear",
-   "rarity": "header-gs",
-   "vendor": "Camp Clinton",
-   "score": "274",
-   "name": "Tactician Knee Pads",
-   "armor": "1,538",
-   "price": "PxC 665",
-   "fire": "-",
+
+   "rarity": "header-he",
+
+   "vendor": "DZ East 40th",
+
+   "score": "270",
+
+   "name": "Astute Gloves",
+
+   "armor": "913",
+
+   "price": "DZ 221,952",
+
+   "fire": "1167",
+
    "stam": "-",
-   "elec": "1255",
-   "major": "3.50% Enemy Armor Damage  ",
-   "minor": "46% Increased Kill XP<br/>28% Bleed Resistance<br/>31% Shock Resistance"
+
+   "elec": "-",
+
+   "major": "12% Marksman Rifle Damage<br/>15% Critical Hit Damage<br/>7.50% Enemy Armor Damage",
+
+   "minor": "-   ",
+
+   "recommended": "No"
+
  },
+
  {
+
    "type": "gear",
-   "rarity": "header-gs",
-   "vendor": "Camp Clinton",
+
+   "rarity": "header-he",
+
+   "vendor": "DZ East 34th",
+
+   "score": "268",
+
+   "name": "Savage Gloves",
+
+   "armor": "883",
+
+   "price": "DZ 221,952",
+
+   "fire": "-",
+
+   "stam": "-",
+
+   "elec": "1144",
+
+   "major": "5% Health on Kill<br/>11% LMG Damage<br/>8% Enemy Armor Damage",
+
+   "minor": "-   ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-he",
+
+   "vendor": "DZ East 31st",
+
    "score": "272",
-   "name": "Sentry Knee Pads",
-   "armor": "1,538",
-   "price": "PxC 665",
-   "fire": "1151",
-   "stam": "-",
-   "elec": "-",
-   "major": "12,827 Skill Power  ",
-   "minor": "56% Increased Kill XP<br/>27% Disorient Resistance<br/>15% Damage to Elites"
+
+   "name": "Recovered Holster",
+
+   "armor": "914",
+
+   "price": "DZ 194,208",
+
+   "fire": "1122",
+
+   "stam": "1191",
+
+   "elec": "1223",
+
+   "major": "4% Critical Hit Chance  ",
+
+   "minor": "-   ",
+
+   "recommended": "No"
+
  },
+
  {
+
    "type": "gear",
-   "rarity": "header-gs",
-   "vendor": "Camp Clinton",
-   "score": "273",
-   "name": "Nomad Knee Pads",
-   "armor": "1,636",
-   "price": "PxC 665",
-   "fire": "-",
-   "stam": "1157",
-   "elec": "-",
-   "major": "11,854 Skill Power  ",
-   "minor": "33% Disorient Resistance<br/>33% Disrupt Resistance<br/>51% Increased Kill XP"
- },
- {
-   "type": "gear",
-   "rarity": "header-gs",
-   "vendor": "Camp Clinton",
-   "score": "275",
-   "name": "Predator's Mark Knee Pads",
-   "armor": "1,636",
-   "price": "PxC 665",
-   "fire": "-",
-   "stam": "-",
-   "elec": "1243",
-   "major": "7% Critical Hit Damage  ",
-   "minor": "33% Bleed Resistance<br/>48% Increased Kill XP<br/>29% Disorient Resistance"
- },
- {
-   "type": "gear",
-   "rarity": "header-gs",
-   "vendor": "Camp Clinton",
-   "score": "275",
-   "name": "AlphaBridge Knee Pads",
-   "armor": "1,603",
-   "price": "PxC 665",
-   "fire": "-",
-   "stam": "1162",
-   "elec": "-",
-   "major": "4% Enemy Armor Damage  ",
-   "minor": "15% Damage to Elites<br/>31% Disorient Resistance<br/>27% Shock Resistance"
- },
- {
-   "type": "gear",
-   "rarity": "header-gs",
-   "vendor": "Camp Clinton",
-   "score": "281",
-   "name": "Banshee Knee Pads",
-   "armor": "1,654",
-   "price": "PxC 665",
-   "fire": "-",
-   "stam": "-",
-   "elec": "1236",
-   "major": "3% All Resistance  ",
-   "minor": "31% Shock Resistance<br/>28% Disorient Resistance<br/>27% Disrupt Resistance"
- },
- {
-   "type": "gear",
+
    "rarity": "header-he",
-   "vendor": "Camp Clinton",
-   "score": "270",
-   "name": "Nimble Holster",
-   "armor": "917",
-   "price": "PxC 582",
-   "fire": "1116",
-   "stam": "1229",
-   "elec": "1209",
-   "major": "3.50% Critical Hit Chance  ",
-   "minor": "-   "
- },
- {
-   "type": "gear",
-   "rarity": "header-gs",
-   "vendor": "Camp Clinton",
-   "score": "270",
-   "name": "Striker Holster",
-   "armor": "921",
-   "price": "PxC 582",
-   "fire": "1190",
-   "stam": "1265",
-   "elec": "1218",
-   "major": "7,300 Health  ",
-   "minor": "-   "
- },
- {
-   "type": "gear",
-   "rarity": "header-gs",
-   "vendor": "Camp Clinton",
-   "score": "268",
-   "name": "FireCrest Holster",
-   "armor": "938",
-   "price": "PxC 582",
-   "fire": "1158",
-   "stam": "1158",
-   "elec": "1143",
-   "major": "19.50% Reload Speed  ",
-   "minor": "-   "
- },
- {
-   "type": "gear",
-   "rarity": "header-gs",
-   "vendor": "Camp Clinton",
-   "score": "270",
-   "name": "DeadEYE Holster",
-   "armor": "965",
-   "price": "PxC 582",
-   "fire": "1206",
-   "stam": "1135",
-   "elec": "1182",
-   "major": "6% Skill Haste  ",
-   "minor": "-   "
- },
- {
-   "type": "gear",
-   "rarity": "header-he",
-   "vendor": "Camp Clinton",
+
+   "vendor": "DZ West 53rd",
+
    "score": "271",
-   "name": "Decisive Gloves",
-   "armor": "924",
-   "price": "PxC 665",
+
+   "name": "Nimble Holster",
+
+   "armor": "970",
+
+   "price": "DZ 194,208",
+
+   "fire": "1144",
+
+   "stam": "1245",
+
+   "elec": "1188",
+
+   "major": "6% Skill Haste  ",
+
+   "minor": "-   ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-he",
+
+   "vendor": "DZ West 46th",
+
+   "score": "270",
+
+   "name": "Refreshed Mask",
+
+   "armor": "949",
+
+   "price": "DZ 249,696",
+
    "fire": "-",
-   "stam": "1184",
+
+   "stam": "1147",
+
    "elec": "-",
-   "major": "5% Critical Hit Chance<br/>12% Assault Rifle Damage<br/>7.50% Enemy Armor Damage",
-   "minor": "-   "
+
+   "major": "7.50% Enemy Armor Damage  ",
+
+   "minor": "14% Disrupt Resistance  ",
+
+   "recommended": "No"
+
  },
+
  {
+
    "type": "gear",
+
+   "rarity": "header-he",
+
+   "vendor": "DZ West 42nd",
+
+   "score": "266",
+
+   "name": "Nimble Holster",
+
+   "armor": "852",
+
+   "price": "DZ 194,208",
+
+   "fire": "1205",
+
+   "stam": "1139",
+
+   "elec": "1148",
+
+   "major": "20.50% Reload Speed  ",
+
+   "minor": "-   ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-he",
+
+   "vendor": "DZ West 39th",
+
+   "score": "271",
+
+   "name": "Relentless Backpack",
+
+   "armor": "1,332",
+
+   "price": "DZ 277,440",
+
+   "fire": "-",
+
+   "stam": "-",
+
+   "elec": "1119",
+
+   "major": "11,394 Health  ",
+
+   "minor": "17% Bleed Resistance  ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-he",
+
+   "vendor": "DZ West 34th",
+
+   "score": "279",
+
+   "name": "Accomplished Knee Pads",
+
+   "armor": "1,648",
+
+   "price": "DZ 221,952",
+
+   "fire": "-",
+
+   "stam": "-",
+
+   "elec": "1226",
+
+   "major": "7.50% Exotic Damage Resilience  ",
+
+   "minor": "30% Disorient Resistance<br/>30% Blind/Deaf Resistance<br/>15% Damage to Elites",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-he",
+
+   "vendor": "DZ West 31st",
+
+   "score": "274",
+
+   "name": "Prosperous Knee Pads",
+
+   "armor": "1,547",
+
+   "price": "DZ 221,952",
+
+   "fire": "-",
+
+   "stam": "-",
+
+   "elec": "1215",
+
+   "major": "7.50% Exotic Damage Resilience  ",
+
+   "minor": "15% Damage to Elites<br/>28% Blind/Deaf Resistance<br/>31% Burn Resistance",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-he",
+
+   "vendor": "DZ 5th Ave",
+
+   "score": "265",
+
+   "name": "Technical Backpack",
+
+   "armor": "1,187",
+
+   "price": "DZ 277,440",
+
+   "fire": "1160",
+
+   "stam": "-",
+
+   "elec": "-",
+
+   "major": "12,221 Health  ",
+
+   "minor": "15% Bleed Resistance  ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
    "rarity": "header-gs",
-   "vendor": "Camp Clinton",
+
+   "vendor": "DZ 06",
+
+   "score": "264",
+
+   "name": "D3-FNC Mask",
+
+   "armor": "940",
+
+   "price": "DZ 249,696",
+
+   "fire": "-",
+
+   "stam": "-",
+
+   "elec": "1124",
+
+   "major": "3% Critical Hit Chance  ",
+
+   "minor": "12% Increased Kill XP  ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-gs",
+
+   "vendor": "DZ 06",
+
+   "score": "279",
+
+   "name": "AlphaBridge Chest",
+
+   "armor": "1,940",
+
+   "price": "DZ 277,440",
+
+   "fire": "-",
+
+   "stam": "1227",
+
+   "elec": "-",
+
+   "major": "10.5% Exotic Damage Resilience<br/>9% Skill Haste ",
+
+   "minor": "26% Increased Kill XP  ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-gs",
+
+   "vendor": "DZ 06",
+
+   "score": "266",
+
+   "name": "DeadEYE Backpack",
+
+   "armor": "1,252",
+
+   "price": "DZ 277,440",
+
+   "fire": "-",
+
+   "stam": "-",
+
+   "elec": "1123",
+
+   "major": "12,167 Skill Power  ",
+
+   "minor": "14% Burn Resistance  ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-gs",
+
+   "vendor": "DZ 06",
+
+   "score": "273",
+
+   "name": "Tactician Knee Pads",
+
+   "armor": "1,612",
+
+   "price": "DZ 221,952",
+
+   "fire": "-",
+
+   "stam": "-",
+
+   "elec": "1146",
+
+   "major": "13,047 Skill Power  ",
+
+   "minor": "28% Blind/Deaf Resistance<br/>29% Disorient Resistance<br/>47% Increased Kill XP",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-gs",
+
+   "vendor": "DZ 06",
+
+   "score": "273",
+
+   "name": "Sentry Holster",
+
+   "armor": "942",
+
+   "price": "DZ 194,208",
+
+   "fire": "1248",
+
+   "stam": "1265",
+
+   "elec": "1216",
+
+   "major": "7,156 Health  ",
+
+   "minor": "-   ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-gs",
+
+   "vendor": "DZ 06",
+
+   "score": "283",
+
+   "name": "AlphaBridge Gloves",
+
+   "armor": "990",
+
+   "price": "DZ 277,440",
+
+   "fire": "-",
+
+   "stam": "-",
+
+   "elec": "1256",
+
+   "major": "6% Critical Hit Chance<br/>12% Shotgun Damage<br/>7.5% Enemy Armor Damage",
+
+   "minor": "-   ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-he",
+
+   "vendor": "DZ 02",
+
    "score": "270",
-   "name": "Lone Star Gloves",
-   "armor": "899",
-   "price": "PxC 665",
-   "fire": "1222",
-   "stam": "-",
+
+   "name": "Rejuvenated Mask",
+
+   "armor": "884",
+
+   "price": "DZ 249,696",
+
+   "fire": "",
+
+   "stam": "1183",
+
    "elec": "-",
-   "major": "10% Pistol Damage<br/>12% Shotgun Damage<br/>8% Skill Haste",
-   "minor": "-   "
+
+   "major": "5% Health on Kill  ",
+
+   "minor": "10% Damage to Elites  ",
+
+   "recommended": "No"
+
  },
+
  {
+
    "type": "gear",
-   "rarity": "header-gs",
-   "vendor": "Camp Clinton",
-   "score": "270",
-   "name": "Hunter's Faith Gloves",
-   "armor": "992",
-   "price": "PxC 665",
-   "fire": "1117",
+
+   "rarity": "header-he",
+
+   "vendor": "DZ 02",
+
+   "score": "274",
+
+   "name": "Reckless Chest",
+
+   "armor": "1,820",
+
+   "price": "DZ 277,440",
+
+   "fire": "1260",
+
    "stam": "-",
+
    "elec": "-",
-   "major": "11% Marksman Rifle Damage<br/>4% Health on Kill<br/>11% Pistol Damage",
-   "minor": "-   "
+
+   "major": "6% Enemy Armor Damage<br/>4% Health on Kill ",
+
+   "minor": "26% Increased Kill XP  ",
+
+   "recommended": "No"
+
  },
+
  {
+
    "type": "gear",
-   "rarity": "header-gs",
-   "vendor": "Camp Clinton",
-   "score": "268",
-   "name": "Reclaimer Gloves",
-   "armor": "931",
-   "price": "PxC 665",
-   "fire": "1164",
-   "stam": "-",
-   "elec": "-",
-   "major": "5% Critical Hit Chance<br/>10% LMG Damage<br/>8% Enemy Armor Damage",
-   "minor": "-   "
- },
- {
-   "type": "gear",
-   "rarity": "header-gs",
-   "vendor": "Camp Clinton",
+
+   "rarity": "header-he",
+
+   "vendor": "DZ 02",
+
    "score": "267",
-   "name": "D3-FNC Gloves",
-   "armor": "889",
-   "price": "PxC 665",
+
+   "name": "Resourceful Backpack",
+
+   "armor": "1,158",
+
+   "price": "DZ 277,440",
+
    "fire": "-",
-   "stam": "1206",
+
+   "stam": "1171",
+
    "elec": "-",
-   "major": "7% Enemy Armor Damage<br/>11% Pistol Damage<br/>4% Health on Kill",
-   "minor": "-   "
+
+   "major": "8% Critical Hit Damage  ",
+
+   "minor": "17% Bleed Resistance  ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-he",
+
+   "vendor": "DZ 02",
+
+   "score": "268",
+
+   "name": "Prosperous Knee Pads",
+
+   "armor": "1,604",
+
+   "price": "DZ 221,952",
+
+   "fire": "-",
+
+   "stam": "-",
+
+   "elec": "1116",
+
+   "major": "14,732 Health  ",
+
+   "minor": "16% Damage to Elites<br/>51% Increased Kill XP<br/>28% Shock Resistance",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-he",
+
+   "vendor": "DZ 02",
+
+   "score": "270",
+
+   "name": "Sturdy Holster",
+
+   "armor": "906",
+
+   "price": "DZ 194,208",
+
+   "fire": "1220",
+
+   "stam": "1144",
+
+   "elec": "1262",
+
+   "major": "3.5% Critical Hit Chance  ",
+
+   "minor": "-   ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-he",
+
+   "vendor": "DZ 02",
+
+   "score": "270",
+
+   "name": "Cunning Gloves",
+
+   "armor": "919",
+
+   "price": "DZ 221,952",
+
+   "fire": "-",
+
+   "stam": "1184",
+
+   "elec": "-",
+
+   "major": "12% Assault Rifle Damage<br/>11% Pistol Damage<br/>7% Skill Haste",
+
+   "minor": "-   ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-gs",
+
+   "vendor": "DZ 09",
+
+   "score": "281",
+
+   "name": "Sentry Mask",
+
+   "armor": "991",
+
+   "price": "DZ 249,696",
+
+   "fire": "",
+
+   "stam": "",
+
+   "elec": "1204",
+
+   "major": "5% Health on Kill  ",
+
+   "minor": "17% Disorient Resistance  ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-gs",
+
+   "vendor": "DZ 09",
+
+   "score": "266",
+
+   "name": "Tactician Chest",
+
+   "armor": "1,778",
+
+   "price": "DZ 277,440",
+
+   "fire": "-",
+
+   "stam": "1134",
+
+   "elec": "-",
+
+   "major": "4% All Resistance<br/>8% Skill Haste ",
+
+   "minor": "26% Increased Kill XP  ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-gs",
+
+   "vendor": "DZ 09",
+
+   "score": "267",
+
+   "name": "Nomad Backpack",
+
+   "armor": "1,202",
+
+   "price": "DZ 277,440",
+
+   "fire": "-",
+
+   "stam": "-",
+
+   "elec": "1120",
+
+   "major": "12,994 Skill Power  ",
+
+   "minor": "16% Bleed Resistance  ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-gs",
+
+   "vendor": "DZ 09",
+
+   "score": "277",
+
+   "name": "Striker Knee Pads",
+
+   "armor": "1,530",
+
+   "price": "DZ 221,952",
+
+   "fire": "1256",
+
+   "stam": "-",
+
+   "elec": "-",
+
+   "major": "3% All Resistance  ",
+
+   "minor": "13% Damage to Elites<br/>28% Burn Resistance<br/>32% Disrupt Resistance",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-gs",
+
+   "vendor": "DZ 09",
+
+   "score": "260",
+
+   "name": "Lone Star Holster",
+
+   "armor": "855",
+
+   "price": "DZ 194,208",
+
+   "fire": "1182",
+
+   "stam": "1143",
+
+   "elec": "1201",
+
+   "major": "6% Skill Haste  ",
+
+   "minor": "-   ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-gs",
+
+   "vendor": "DZ 09",
+
+   "score": "265",
+
+   "name": "Nomad Gloves",
+
+   "armor": "948",
+
+   "price": "DZ 277,440",
+
+   "fire": "1115",
+
+   "stam": "-",
+
+   "elec": "-",
+
+   "major": "10% Pistol Damage<br/>11% LMG Damage<br/>4% Health on Kill",
+
+   "minor": "-   ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-he",
+
+   "vendor": "DZ 08",
+
+   "score": "271",
+
+   "name": "Tenacious Mask",
+
+   "armor": "871",
+
+   "price": "DZ 249,696",
+
+   "fire": "1205",
+
+   "stam": "-",
+
+   "elec": "-",
+
+   "major": "11% Exotic Damage Resilience  ",
+
+   "minor": "16% Burn Resistance  ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-he",
+
+   "vendor": "DZ 08",
+
+   "score": "273",
+
+   "name": "Robust Chest",
+
+   "armor": "1,950",
+
+   "price": "DZ 277,440",
+
+   "fire": "-",
+
+   "stam": "1197",
+
+   "elec": "-",
+
+   "major": "15,191 Health<br/>9.50% Exotic Damage Resilience ",
+
+   "minor": "24% Increased Kill XP  ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-he",
+
+   "vendor": "DZ 08",
+
+   "score": "279",
+
+   "name": "Inventive Backpack",
+
+   "armor": "1,272",
+
+   "price": "DZ 277,440",
+
+   "fire": "-",
+
+   "stam": "1267",
+
+   "elec": "-",
+
+   "major": "16% Stability  ",
+
+   "minor": "15% Bleed Resistance  ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-he",
+
+   "vendor": "DZ 08",
+
+   "score": "270",
+
+   "name": "Prosperous Knee Pads",
+
+   "armor": "1,521",
+
+   "price": "DZ 221,952",
+
+   "fire": "-",
+
+   "stam": "1146",
+
+   "elec": "-",
+
+   "major": "16,635 Health  ",
+
+   "minor": "30% Burn Resistance<br/>29% Disrupt Resistance<br/>29% Blind/Deaf Resistance",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-he",
+
+   "vendor": "DZ 08",
+
+   "score": "267",
+
+   "name": "Nimble Holster",
+
+   "armor": "872",
+
+   "price": "DZ 194,208",
+
+   "fire": "1256",
+
+   "stam": "1168",
+
+   "elec": "1176",
+
+   "major": "7,761 Health  ",
+
+   "minor": "-   ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-he",
+
+   "vendor": "DZ 08",
+
+   "score": "265",
+
+   "name": "Decisive Gloves",
+
+   "armor": "884",
+
+   "price": "DZ 221,952",
+
+   "fire": "-",
+
+   "stam": "1161",
+
+   "elec": "-",
+
+   "major": "7.50% Enemy Armor Damage<br/>11% Shotgun Damage<br/>4% Health on Kill",
+
+   "minor": "-   ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-gs",
+
+   "vendor": "DZ 08",
+
+   "score": "268",
+
+   "name": "DeadEYE Mask",
+
+   "armor": "869",
+
+   "price": "DZ 249,696",
+
+   "fire": "1135",
+
+   "stam": "-",
+
+   "elec": "-",
+
+   "major": "5% Health on Kill  ",
+
+   "minor": "12% Damage to Elites  ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-gs",
+
+   "vendor": "DZ 08",
+
+   "score": "274",
+
+   "name": "AlphaBridge Chest",
+
+   "armor": "1,868",
+
+   "price": "DZ 277,440",
+
+   "fire": "-",
+
+   "stam": "1263",
+
+   "elec": "-",
+
+   "major": "7% Skill Haste<br/>10.0% Exotic Damage Resilience ",
+
+   "minor": "25% Increased Kill XP  ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-gs",
+
+   "vendor": "DZ 08",
+
+   "score": "268",
+
+   "name": "Tactician Backpack",
+
+   "armor": "1,292",
+
+   "price": "DZ 277,440",
+
+   "fire": "-",
+
+   "stam": "-",
+
+   "elec": "1116",
+
+   "major": "15.50% Stability  ",
+
+   "minor": "14% Bleed Resistance  ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-gs",
+
+   "vendor": "DZ 08",
+
+   "score": "277",
+
+   "name": "Banshee Knee Pads",
+
+   "armor": "1,591",
+
+   "price": "DZ 221,952",
+
+   "fire": "-",
+
+   "stam": "-",
+
+   "elec": "1223",
+
+   "major": "12,918 Skill Power  ",
+
+   "minor": "32% Shock Resistance<br/>31% Bleed Resistance<br/>29% Disrupt Resistance",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-gs",
+
+   "vendor": "DZ 08",
+
+   "score": "269",
+
+   "name": "FireCrest Holster",
+
+   "armor": "916",
+
+   "price": "DZ 194,208",
+
+   "fire": "1271",
+
+   "stam": "1226",
+
+   "elec": "1165",
+
+   "major": "7,117 Health  ",
+
+   "minor": "-   ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-gs",
+
+   "vendor": "DZ 08",
+
+   "score": "272",
+
+   "name": "FireCrest Gloves",
+
+   "armor": "944",
+
+   "price": "DZ 277,440",
+
+   "fire": "1224",
+
+   "stam": "-",
+
+   "elec": "-",
+
+   "major": "11% LMG Damage<br/>7% Skill Haste<br/>7.0% Enemy Armor Damage",
+
+   "minor": "-   ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-he",
+
+   "vendor": "East 58th",
+
+   "score": "268",
+
+   "name": "Refreshed Mask",
+
+   "armor": "913",
+
+   "price": "DZ 249,696",
+
+   "fire": "-",
+
+   "stam": "1136",
+
+   "elec": "-",
+
+   "major": "10.50% Exotic Damage Resilience  ",
+
+   "minor": "10% Damage to Elites  ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-he",
+
+   "vendor": "East 58th",
+
+   "score": "284",
+
+   "name": "Reckless Chest",
+
+   "armor": "1,985",
+
+   "price": "DZ 277,440",
+
+   "fire": "1271",
+
+   "stam": "-",
+
+   "elec": "-",
+
+   "major": "9% Skill Haste<br/>4% All Resistance ",
+
+   "minor": "51% Ammo Capacity  ",
+
+   "recommended": "Yes"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-he",
+
+   "vendor": "East 58th",
+
+   "score": "266",
+
+   "name": "Relentless Backpack",
+
+   "armor": "1,143",
+
+   "price": "DZ 277,440",
+
+   "fire": "1193",
+
+   "stam": "-",
+
+   "elec": "-",
+
+   "major": "15.50% Stability  ",
+
+   "minor": "15% Disrupt Resistance  ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-he",
+
+   "vendor": "East 58th",
+
+   "score": "273",
+
+   "name": "Prosperous Knee Pads",
+
+   "armor": "1,521",
+
+   "price": "DZ 221,952",
+
+   "fire": "-",
+
+   "stam": "-",
+
+   "elec": "1253",
+
+   "major": "7.0% Exotic Damage Resilience  ",
+
+   "minor": "32% Disorient Resistance<br/>32% Disrupt Resistance<br/>13% Damage to Elites",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-he",
+
+   "vendor": "East 58th",
+
+   "score": "260",
+
+   "name": "Nimble Holster",
+
+   "armor": "859",
+
+   "price": "DZ 194,208",
+
+   "fire": "1181",
+
+   "stam": "1190",
+
+   "elec": "1119",
+
+   "major": "6% Skill Haste  ",
+
+   "minor": "-   ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-he",
+
+   "vendor": "East 58th",
+
+   "score": "280",
+
+   "name": "Savage Gloves",
+
+   "armor": "990",
+
+   "price": "DZ 221,952",
+
+   "fire": "-",
+
+   "stam": "-",
+
+   "elec": "1230",
+
+   "major": "11% Pistol Damage<br/>12% Assault Rifle Damage<br/>8% Skill Haste",
+
+   "minor": "-   ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-he",
+
+   "vendor": "The Firewall",
+
+   "score": "266",
+
+   "name": "Sturdy Holster",
+
+   "armor": "866",
+
+   "price": "$ 779,016",
+
+   "fire": "1127",
+
+   "stam": "1240",
+
+   "elec": "1207",
+
+   "major": "3.5% Critical Hit Chance  ",
+
+   "minor": "-   ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-he",
+
+   "vendor": "Southpaw",
+
+   "score": "274",
+
+   "name": "Tenacious Mask",
+
+   "armor": "965",
+
+   "price": "$ 1,001,592",
+
+   "fire": "-",
+
+   "stam": "1173",
+
+   "elec": "-",
+
+   "major": "3.5% Critical Hit Chance  ",
+
+   "minor": "12% Damage to Elites  ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-he",
+
+   "vendor": "The Ward",
+
+   "score": "258",
+
+   "name": "Recovered Holster",
+
+   "armor": "855",
+
+   "price": "$ 779,016",
+
+   "fire": "1129",
+
+   "stam": "1115",
+
+   "elec": "1119",
+
+   "major": "7,242 Health  ",
+
+   "minor": "-   ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-he",
+
+   "vendor": "Madison's Stand",
+
+   "score": "269",
+
+   "name": "Enduring Mask",
+
+   "armor": "889",
+
+   "price": "$ 1,001,592",
+
+   "fire": "-",
+
+   "stam": "-",
+
+   "elec": "1170",
+
+   "major": "4% All Resistance  ",
+
+   "minor": "15% Burn Resistance  ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-he",
+
+   "vendor": "Autumn's Hope",
+
+   "score": "273",
+
+   "name": "Recovered Holster",
+
+   "armor": "990",
+
+   "price": "$ 779,016",
+
+   "fire": "1192",
+
+   "stam": "1243",
+
+   "elec": "1155",
+
+   "major": "6% Skill Haste  ",
+
+   "minor": "-   ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-he",
+
+   "vendor": "Dante's Run",
+
+   "score": "271",
+
+   "name": "Astute Gloves",
+
+   "armor": "899",
+
+   "price": "$ 890,304",
+
+   "fire": "-",
+
+   "stam": "-",
+
+   "elec": "1176",
+
+   "major": "12% Shotgun Damage<br/>5.5% Critical Hit Chance<br/>12% Pistol Damage",
+
+   "minor": "-   ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-he",
+
+   "vendor": "The Cavern",
+
+   "score": "272",
+
+   "name": "Decisive Gloves",
+
+   "armor": "899",
+
+   "price": "$ 890,304",
+
+   "fire": "-",
+
+   "stam": "1191",
+
+   "elec": "-",
+
+   "major": "8% Enemy Armor Damage<br/>11% LMG Damage<br/>9% Skill Haste",
+
+   "minor": "-   ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-he",
+
+   "vendor": "Camp Hudson Gear Vendor",
+
+   "score": "270",
+
+   "name": "Rehabilitated Mask",
+
+   "armor": "941",
+
+   "price": "$ 1,001,592",
+
+   "fire": "1145",
+
+   "stam": "-",
+
+   "elec": "-",
+
+   "major": "7.5% Enemy Armor Damage  ",
+
+   "minor": "13% Increased Kill XP  ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-he",
+
+   "vendor": "BoO Gear Vendor",
+
+   "score": "278",
+
+   "name": "Decisive Gloves",
+
+   "armor": "995",
+
+   "price": "$ 890,304",
+
+   "fire": "-",
+
+   "stam": "-",
+
+   "elec": "1253",
+
+   "major": "7% Skill Haste<br/>11% LMG Damage<br/>11% Pistol Damage",
+
+   "minor": "-   ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-he",
+
+   "vendor": "DZ Vendor at BoO",
+
+   "score": "269",
+
+   "name": "Nimble Holster",
+
+   "armor": "957",
+
+   "price": "DZ 194,208",
+
+   "fire": "1179",
+
+   "stam": "1126",
+
+   "elec": "1187",
+
+   "major": "18.0% Reload Speed  ",
+
+   "minor": "-   ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-he",
+
+   "vendor": "Special Equipment Vendor",
+
+   "score": "265",
+
+   "name": "Rehabilitated Mask",
+
+   "armor": "852",
+
+   "price": "PxC 749",
+
+   "fire": "1220",
+
+   "stam": "-",
+
+   "elec": "-",
+
+   "major": "7.0% Enemy Armor Damage  ",
+
+   "minor": "15% Blind/Deaf Resistance  ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-gs",
+
+   "vendor": "Special Equipment Vendor",
+
+   "score": "272",
+
+   "name": "Predator's Mark Mask",
+
+   "armor": "941",
+
+   "price": "PxC 749",
+
+   "fire": "1155",
+
+   "stam": "-",
+
+   "elec": "-",
+
+   "major": "10.0% Exotic Damage Resilience  ",
+
+   "minor": "14% Increased Kill XP  ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-gs",
+
+   "vendor": "Special Equipment Vendor",
+
+   "score": "276",
+
+   "name": "DeadEYE Mask",
+
+   "armor": "955",
+
+   "price": "PxC 749",
+
+   "fire": "1165",
+
+   "stam": "-",
+
+   "elec": "-",
+
+   "major": "9,934 Skill Power  ",
+
+   "minor": "17% Blind/Deaf Resistance  ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-he",
+
+   "vendor": "Special Equipment Vendor",
+
+   "score": "279",
+
+   "name": "Forceful Chest",
+
+   "armor": "1,796",
+
+   "price": "PxC 832",
+
+   "fire": "-",
+
+   "stam": "1171",
+
+   "elec": "-",
+
+   "major": "9% Skill Haste<br/>5.50% Enemy Armor Damage ",
+
+   "minor": "52% Ammo Capacity  ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-gs",
+
+   "vendor": "Special Equipment Vendor",
+
+   "score": "270",
+
+   "name": "Lone Star Chest",
+
+   "armor": "1,917",
+
+   "price": "PxC 832",
+
+   "fire": "-",
+
+   "stam": "1125",
+
+   "elec": "-",
+
+   "major": "4% Health on Kill<br/>16,438 Health ",
+
+   "minor": "53% Ammo Capacity  ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-gs",
+
+   "vendor": "Special Equipment Vendor",
+
+   "score": "275",
+
+   "name": "D3-FNC Chest",
+
+   "armor": "1,757",
+
+   "price": "PxC 832",
+
+   "fire": "-",
+
+   "stam": "1757",
+
+   "elec": "-",
+
+   "major": "5% Health on Kill<br/>8% Skill Haste ",
+
+   "minor": "48% Ammo Capacity  ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-he",
+
+   "vendor": "Special Equipment Vendor",
+
+   "score": "272",
+
+   "name": "Resourceful Backpack",
+
+   "armor": "1,230",
+
+   "price": "PxC 832",
+
+   "fire": "-",
+
+   "stam": "-",
+
+   "elec": "1258",
+
+   "major": "12,169 Skill Power  ",
+
+   "minor": "14% Burn Resistance  ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-gs",
+
+   "vendor": "Special Equipment Vendor",
+
+   "score": "270",
+
+   "name": "Tactician Backpack",
+
+   "armor": "1,188",
+
+   "price": "PxC 832",
+
+   "fire": "-",
+
+   "stam": "-",
+
+   "elec": "1208",
+
+   "major": "16.50% Stability  ",
+
+   "minor": "52% Ammo Capacity  ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-gs",
+
+   "vendor": "Special Equipment Vendor",
+
+   "score": "270",
+
+   "name": "Final Measure Backpack",
+
+   "armor": "1,292",
+
+   "price": "PxC 832",
+
+   "fire": "-",
+
+   "stam": "-",
+
+   "elec": "1175",
+
+   "major": "11,469 Health  ",
+
+   "minor": "15% Burn Resistance  ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-gs",
+
+   "vendor": "Special Equipment Vendor",
+
+   "score": "274",
+
+   "name": "AlphaBridge Backpack",
+
+   "armor": "1,303",
+
+   "price": "PxC 832",
+
+   "fire": "-",
+
+   "stam": "-",
+
+   "elec": "1203",
+
+   "major": "15.50% Stability  ",
+
+   "minor": "49% Ammo Capacity  ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-gs",
+
+   "vendor": "Special Equipment Vendor",
+
+   "score": "271",
+
+   "name": "Banshee Backpack",
+
+   "armor": "1,328",
+
+   "price": "PxC 832",
+
+   "fire": "1137",
+
+   "stam": "-",
+
+   "elec": "-",
+
+   "major": "11,756 Health  ",
+
+   "minor": "15% Disrupt Resistance  ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-he",
+
+   "vendor": "Special Equipment Vendor",
+
+   "score": "272",
+
+   "name": "Accomplished Knee Pads",
+
+   "armor": "1,635",
+
+   "price": "PxC 665",
+
+   "fire": "1194",
+
+   "stam": "-",
+
+   "elec": "-",
+
+   "major": "14,474 Health  ",
+
+   "minor": "28% Blind/Deaf Resistance<br/>14% Damage to Elites<br/>28% Shock Resistance",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-gs",
+
+   "vendor": "Special Equipment Vendor",
+
+   "score": "272",
+
+   "name": "Reclaimer Knee Pads",
+
+   "armor": "1,433",
+
+   "price": "PxC 665",
+
+   "fire": "-",
+
+   "stam": "1246",
+
+   "elec": "-",
+
+   "major": "3% All Resistance  ",
+
+   "minor": "32% Blind/Deaf Resistance<br/>31% Disrupt Resistance<br/>28% Bleed Resistance",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-he",
+
+   "vendor": "Special Equipment Vendor",
+
+   "score": "266",
+
+   "name": "Sturdy Holster",
+
+   "armor": "929",
+
+   "price": "PxC 582",
+
+   "fire": "1119",
+
+   "stam": "-",
+
+   "elec": "-",
+
+   "major": "18.0% Reload Speed  ",
+
+   "minor": "-   ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-gs",
+
+   "vendor": "Special Equipment Vendor",
+
+   "score": "277",
+
+   "name": "Sentry Holster",
+
+   "armor": "955",
+
+   "price": "PxC 582",
+
+   "fire": "1171",
+
+   "stam": "1247",
+
+   "elec": "1231",
+
+   "major": "21.50% Reload Speed  ",
+
+   "minor": "-   ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-gs",
+
+   "vendor": "Special Equipment Vendor",
+
+   "score": "275",
+
+   "name": "Hunter's Faith Holster",
+
+   "armor": "984",
+
+   "price": "PxC 582",
+
+   "fire": "1119",
+
+   "stam": "1172",
+
+   "elec": "1232",
+
+   "major": "3.50% Critical Hit Chance  ",
+
+   "minor": "-   ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-gs",
+
+   "vendor": "Special Equipment Vendor",
+
+   "score": "275",
+
+   "name": "FireCrest Holster",
+
+   "armor": "948",
+
+   "price": "PxC 582",
+
+   "fire": "1251",
+
+   "stam": "1159",
+
+   "elec": "1267",
+
+   "major": "3.50% Critical Hit Chance  ",
+
+   "minor": "-   ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-he",
+
+   "vendor": "Special Equipment Vendor",
+
+   "score": "267",
+
+   "name": "Astute Gloves",
+
+   "armor": "946",
+
+   "price": "PxC 665",
+
+   "fire": "1125",
+
+   "stam": "-",
+
+   "elec": "-",
+
+   "major": "11% SMG Damage<br/>4% Health on Kill<br/>5.50% Critical Hit Chance",
+
+   "minor": "-   ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-gs",
+
+   "vendor": "Special Equipment Vendor",
+
+   "score": "262",
+
+   "name": "Striker Gloves",
+
+   "armor": "864",
+
+   "price": "PxC 665",
+
+   "fire": "1132",
+
+   "stam": "-",
+
+   "elec": "-",
+
+   "major": "11% LMG Damage<br/>12% Pistol Damage<br/>14% Critical Hit Damage",
+
+   "minor": "-   ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-gs",
+
+   "vendor": "Special Equipment Vendor",
+
+   "score": "264",
+
+   "name": "Nomad Gloves",
+
+   "armor": "877",
+
+   "price": "PxC 665",
+
+   "fire": "1145",
+
+   "stam": "-",
+
+   "elec": "-",
+
+   "major": "5.50% Critical Hit Chance<br/>12% Assault Rifle Damage<br/>6.50% Enemy Armor Damage",
+
+   "minor": "-   ",
+
+   "recommended": "Yes"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-he",
+
+   "vendor": "Camp Clinton",
+
+   "score": "268",
+
+   "name": "Refreshed Mask",
+
+   "armor": "969",
+
+   "price": "PxC 749",
+
+   "fire": "1136",
+
+   "stam": "-",
+
+   "elec": "-",
+
+   "major": "4% Health on Kill  ",
+
+   "minor": "13% Increased Kill XP  ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-gs",
+
+   "vendor": "Camp Clinton",
+
+   "score": "266",
+
+   "name": "Striker Mask",
+
+   "armor": "921",
+
+   "price": "PxC 749",
+
+   "fire": "-",
+
+   "stam": "1119",
+
+   "elec": "-",
+
+   "major": "3.50% Critical Hit Chance  ",
+
+   "minor": "13% Increased Kill XP  ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-gs",
+
+   "vendor": "Camp Clinton",
+
+   "score": "278",
+
+   "name": "Tactician Mask",
+
+   "armor": "984",
+
+   "price": "PxC 749",
+
+   "fire": "1177",
+
+   "stam": "-",
+
+   "elec": "-",
+
+   "major": "4% All Resistance  ",
+
+   "minor": "13% Increased Kill XP  ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-gs",
+
+   "vendor": "Camp Clinton",
+
+   "score": "267",
+
+   "name": "Final Measure Mask",
+
+   "armor": "854",
+
+   "price": "PxC 749",
+
+   "fire": "-",
+
+   "stam": "-",
+
+   "elec": "1226",
+
+   "major": "3.50% Critical Hit Chance  ",
+
+   "minor": "13% Increased Kill XP  ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-gs",
+
+   "vendor": "Camp Clinton",
+
+   "score": "265",
+
+   "name": "FireCrest Mask",
+
+   "armor": "867",
+
+   "price": "PxC 749",
+
+   "fire": "-",
+
+   "stam": "-",
+
+   "elec": "1147",
+
+   "major": "7.50% Enemy Armor Damage  ",
+
+   "minor": "13% Increased Kill XP  ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-gs",
+
+   "vendor": "Camp Clinton",
+
+   "score": "274",
+
+   "name": "AlphaBridge Mask",
+
+   "armor": "965",
+
+   "price": "PxC 749",
+
+   "fire": "-",
+
+   "stam": "1164",
+
+   "elec": "-",
+
+   "major": "4% All Resistance  ",
+
+   "minor": "12% Blind/Deaf Resistance  ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-gs",
+
+   "vendor": "Camp Clinton",
+
+   "score": "268",
+
+   "name": "Banshee Mask",
+
+   "armor": "867",
+
+   "price": "PxC 749",
+
+   "fire": "1207",
+
+   "stam": "-",
+
+   "elec": "-",
+
+   "major": "10.50% Exotic Damage Resilience  ",
+
+   "minor": "10% Damage to Elites  ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-he",
+
+   "vendor": "Camp Clinton",
+
+   "score": "280",
+
+   "name": "Robust Chest",
+
+   "armor": "1,957",
+
+   "price": "PxC 832",
+
+   "fire": "1225",
+
+   "stam": "-",
+
+   "elec": "-",
+
+   "major": "4% All Resistance<br/>5.50% Enemy Armor Damage ",
+
+   "minor": "28% Increased Kill XP  ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-gs",
+
+   "vendor": "Camp Clinton",
+
+   "score": "276",
+
+   "name": "Nomad Chest",
+
+   "armor": "1,943",
+
+   "price": "PxC 832",
+
+   "fire": "-",
+
+   "stam": "1184",
+
+   "elec": "-",
+
+   "major": "9% Skill Haste<br/>6.0% Enemy Armor Damage ",
+
+   "minor": "48% Ammo Capacity  ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-gs",
+
+   "vendor": "Camp Clinton",
+
+   "score": "275",
+
+   "name": "Reclaimer Chest",
+
+   "armor": "1,992",
+
+   "price": "PxC 832",
+
+   "fire": "-",
+
+   "stam": "1115",
+
+   "elec": "-",
+
+   "major": "4% All Resistance<br/>15,814 Health ",
+
+   "minor": "55% Ammo Capacity  ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-he",
+
+   "vendor": "Camp Clinton",
+
+   "score": "274",
+
+   "name": "Resourceful Backpack",
+
+   "armor": "1,304",
+
+   "price": "PxC 832",
+
+   "fire": "-",
+
+   "stam": "-",
+
+   "elec": "1211",
+
+   "major": "12,037 Skill Power  ",
+
+   "minor": "14% Disrupt Resistance  ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-gs",
+
+   "vendor": "Camp Clinton",
+
+   "score": "274",
+
+   "name": "Lone Star Backpack",
+
+   "armor": "1,276",
+
+   "price": "PxC 832",
+
+   "fire": "-",
+
+   "stam": "-",
+
+   "elec": "1154",
+
+   "major": "12,836 Health  ",
+
+   "minor": "17% Disrupt Resistance  ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-he",
+
+   "vendor": "Camp Clinton",
+
+   "score": "279",
+
+   "name": "Prosperous Knee Pads",
+
+   "armor": "1,638",
+
+   "price": "PxC 665",
+
+   "fire": "1226",
+
+   "stam": "-",
+
+   "elec": "-",
+
+   "major": "16,393 Health  ",
+
+   "minor": "28% Shock Resistance<br/>30% Burn Resistance<br/>30% Disorient Resistance",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-he",
+
+   "vendor": "Camp Clinton",
+
+   "score": "267",
+
+   "name": "Nimble Holster",
+
+   "armor": "876",
+
+   "price": "PxC 582",
+
+   "fire": "1229",
+
+   "stam": "1125",
+
+   "elec": "1130",
+
+   "major": "8,085 Health  ",
+
+   "minor": "-   ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-gs",
+
+   "vendor": "Camp Clinton",
+
+   "score": "278",
+
+   "name": "Predator's Mark Holster",
+
+   "armor": "949",
+
+   "price": "PxC 582",
+
+   "fire": "1179",
+
+   "stam": "1272",
+
+   "elec": "1228",
+
+   "major": "4.0% Critical Hit Chance  ",
+
+   "minor": "-   ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-gs",
+
+   "vendor": "Camp Clinton",
+
+   "score": "269",
+
+   "name": "Hunter's Faith Holster",
+
+   "armor": "888",
+
+   "price": "PxC 582",
+
+   "fire": "1253",
+
+   "stam": "1185",
+
+   "elec": "1242",
+
+   "major": "7,453 Health  ",
+
+   "minor": "-   ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-gs",
+
+   "vendor": "Camp Clinton",
+
+   "score": "272",
+
+   "name": "D3-FNC Holster",
+
+   "armor": "896",
+
+   "price": "PxC 582",
+
+   "fire": "1193",
+
+   "stam": "1178",
+
+   "elec": "1199",
+
+   "major": "4.0% Critical Hit Chance  ",
+
+   "minor": "-   ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-he",
+
+   "vendor": "Camp Clinton",
+
+   "score": "270",
+
+   "name": "Cunning Gloves",
+
+   "armor": "955",
+
+   "price": "PxC 665",
+
+   "fire": "-",
+
+   "stam": "1208",
+
+   "elec": "-",
+
+   "major": "10% LMG Damage<br/>4% Health on Kill<br/>10% Pistol Damage",
+
+   "minor": "-   ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-gs",
+
+   "vendor": "Camp Clinton",
+
+   "score": "271",
+
+   "name": "Sentry Gloves",
+
+   "armor": "933",
+
+   "price": "PxC 665",
+
+   "fire": "1180",
+
+   "stam": "-",
+
+   "elec": "-",
+
+   "major": "12% LMG Damage<br/>4% Health on Kill<br/>5.5% Critical Hit Chance",
+
+   "minor": "-   ",
+
+   "recommended": "No"
+
+ },
+
+ {
+
+   "type": "gear",
+
+   "rarity": "header-gs",
+
+   "vendor": "Camp Clinton",
+
+   "score": "271",
+
+   "name": "DeadEYE Gloves",
+
+   "armor": "951",
+
+   "price": "PxC 665",
+
+   "fire": "-",
+
+   "stam": "1180",
+
+   "elec": "-",
+
+   "major": "14% Critical Hit Damage<br/>4% Health on Kill<br/>12% Assault Rifle Damage",
+
+   "minor": "-   ",
+
+   "recommended": "No"
+
  }
+
 ]
